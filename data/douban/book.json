@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63419,
+				"count": 63432,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66062,
+				"count": 66066,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34091,
+				"count": 34092,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -282,7 +282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46356,
+				"count": 46359,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 460811,
+				"count": 460828,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -558,7 +558,7 @@
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 251,
+			"other_versions_count": 253,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214312,
+				"count": 214322,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227664,
+				"count": 227667,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1161,7 +1161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309906,
+				"count": 309914,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1254,7 +1254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60088,
+				"count": 60089,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2033,7 +2033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228916,
+				"count": 228918,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2140,7 +2140,7 @@
 					"title": "豆瓣热门爱情小说TOP10"
 				}
 			],
-			"other_versions_count": 67,
+			"other_versions_count": 68,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -2296,7 +2296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 824395,
+				"count": 824406,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2390,7 +2390,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340227,
+				"count": 340228,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2411,7 +2411,7 @@
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 38,
+			"other_versions_count": 41,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "路遥 / 2005 / 人民文学出版社",
@@ -2481,7 +2481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 471038,
+				"count": 471051,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2656,7 +2656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 550823,
+				"count": 550831,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2838,7 +2838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 781712,
+				"count": 781719,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3101,7 +3101,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18416,
+				"count": 18418,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3122,7 +3122,7 @@
 					"title": "豆瓣外国小说 Top100"
 				}
 			],
-			"other_versions_count": 123,
+			"other_versions_count": 124,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -3195,7 +3195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294412,
+				"count": 294414,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 315739,
+				"count": 315742,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514129,
+				"count": 514133,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
