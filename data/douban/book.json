@@ -591,7 +591,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1007305.jpg",
-			"min_sale_price": "¥30.6",
+			"min_sale_price": "¥30.8",
 			"press": [
 				"人民文学出版社"
 			],
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214411,
+				"count": 214413,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1161,7 +1161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309989,
+				"count": 309991,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2119,7 +2119,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353265,
+				"count": 353266,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2212,7 +2212,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14347,
+				"count": 14348,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -2296,7 +2296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 824488,
+				"count": 824490,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2572,7 +2572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 242873,
+				"count": 242874,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2656,7 +2656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 550904,
+				"count": 550905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
