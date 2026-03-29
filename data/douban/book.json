@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63584,
+				"count": 63592,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66134,
+				"count": 66141,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34136,
+				"count": 34138,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96024,
+				"count": 96026,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 461096,
+				"count": 461108,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214522,
+				"count": 214525,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -770,7 +770,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25886226.jpg",
-			"min_sale_price": "¥19.3",
+			"min_sale_price": "¥17.4",
 			"press": [
 				"人民文学出版社"
 			],
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227781,
+				"count": 227783,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1161,7 +1161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310103,
+				"count": 310111,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1254,7 +1254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60113,
+				"count": 60117,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2033,7 +2033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228974,
+				"count": 228975,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2119,7 +2119,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353289,
+				"count": 353290,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2296,7 +2296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 824587,
+				"count": 824597,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2390,7 +2390,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340341,
+				"count": 340345,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2481,7 +2481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 471369,
+				"count": 471378,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2531,7 +2531,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6082808.jpg",
-			"min_sale_price": "¥81.0",
+			"min_sale_price": "¥80.0",
 			"press": [
 				"南海出版公司"
 			],
@@ -2572,7 +2572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 242904,
+				"count": 242906,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2656,7 +2656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551024,
+				"count": 551031,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2747,7 +2747,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511253,
+				"count": 511254,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2838,7 +2838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 781867,
+				"count": 781871,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3195,7 +3195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294497,
+				"count": 294498,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 315832,
+				"count": 315837,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514260,
+				"count": 514263,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
