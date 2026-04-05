@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63786,
+				"count": 63792,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66226,
+				"count": 66228,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34186,
+				"count": 34187,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -282,7 +282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46382,
+				"count": 46383,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96075,
+				"count": 96076,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 461468,
+				"count": 461483,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214744,
+				"count": 214752,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227956,
+				"count": 227964,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1161,7 +1161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310345,
+				"count": 310348,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1254,7 +1254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60149,
+				"count": 60148,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2033,7 +2033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229024,
+				"count": 229029,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2212,10 +2212,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14380,
+				"count": 14381,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7
+				"value": 6.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2296,7 +2296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 824857,
+				"count": 824869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2390,7 +2390,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340502,
+				"count": 340510,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2481,7 +2481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 471753,
+				"count": 471760,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2572,7 +2572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 242951,
+				"count": 242952,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2656,7 +2656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551276,
+				"count": 551281,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2747,7 +2747,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511266,
+				"count": 511264,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2838,7 +2838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782039,
+				"count": 782045,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3101,7 +3101,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18462,
+				"count": 18465,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3195,7 +3195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294605,
+				"count": 294609,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 315959,
+				"count": 315963,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514427,
+				"count": 514434,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
