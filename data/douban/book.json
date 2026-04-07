@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 63847,
+				"count": 63849,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66257,
+				"count": 66259,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34199,
+				"count": 34201,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96092,
+				"count": 96093,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 461593,
+				"count": 461595,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -591,7 +591,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1007305.jpg",
-			"min_sale_price": "¥28.34",
+			"min_sale_price": "¥30.6",
 			"press": [
 				"人民文学出版社"
 			],
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214821,
+				"count": 214823,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228012,
+				"count": 228014,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2481,7 +2481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 471905,
+				"count": 471906,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2572,7 +2572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 242960,
+				"count": 242959,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2656,7 +2656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551345,
+				"count": 551347,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2747,7 +2747,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511268,
+				"count": 511267,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2838,7 +2838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782097,
+				"count": 782096,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3195,7 +3195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294645,
+				"count": 294646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316004,
+				"count": 316005,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514483,
+				"count": 514484,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
