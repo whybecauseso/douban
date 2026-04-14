@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64021,
+				"count": 64030,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66314,
+				"count": 66316,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34244,
+				"count": 34247,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -282,7 +282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46399,
+				"count": 46400,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96146,
+				"count": 96147,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 461890,
+				"count": 461895,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 215013,
+				"count": 215019,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228152,
+				"count": 228160,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1161,7 +1161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310599,
+				"count": 310610,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1533,7 +1533,7 @@
 				"normal": "https://img3.doubanio.com/view/subject/m/public/s3581447.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 138,
+			"other_versions_count": 139,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -1961,7 +1961,7 @@
 				"normal": "https://img9.doubanio.com/view/subject/m/public/s1158254.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 251,
+			"other_versions_count": 252,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -2119,7 +2119,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353367,
+				"count": 353368,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2212,7 +2212,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14421,
+				"count": 14426,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2296,7 +2296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825185,
+				"count": 825192,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2390,7 +2390,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340678,
+				"count": 340687,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2481,7 +2481,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 472264,
+				"count": 472275,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2838,7 +2838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782277,
+				"count": 782283,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3195,7 +3195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294737,
+				"count": 294739,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316115,
+				"count": 316118,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514631,
+				"count": 514635,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
