@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64091,
+				"count": 64094,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66354,
+				"count": 66358,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96173,
+				"count": 96174,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 462032,
+				"count": 462036,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 215097,
+				"count": 215099,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -725,7 +725,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10325,
+				"count": 10326,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228217,
+				"count": 228221,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1163,7 +1163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310706,
+				"count": 310707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1610,7 +1610,7 @@
 				"count": 6222,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1965,7 +1965,9 @@
 			"honor_infos": [],
 			"other_versions_count": 252,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "马克・吐温 / 2003 / 二十一世纪出版社",
 			"book_subtitle": "",
 			"id": "1142578",
@@ -2009,7 +2011,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -2119,7 +2121,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353371,
+				"count": 353373,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2296,7 +2298,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825294,
+				"count": 825297,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2390,7 +2392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340735,
+				"count": 340738,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2481,7 +2483,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 472411,
+				"count": 472419,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2656,7 +2658,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551653,
+				"count": 551660,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2747,7 +2749,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511285,
+				"count": 511286,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2838,7 +2840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782342,
+				"count": 782345,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3195,7 +3197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294767,
+				"count": 294768,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3281,7 +3283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316141,
+				"count": 316143,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3367,7 +3369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514687,
+				"count": 514689,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
