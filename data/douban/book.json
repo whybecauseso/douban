@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64153,
+				"count": 64159,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66389,
+				"count": 66391,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34282,
+				"count": 34283,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96185,
+				"count": 96187,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 462111,
+				"count": 462113,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 215138,
+				"count": 215144,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228257,
+				"count": 228259,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1163,7 +1163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310762,
+				"count": 310771,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1607,10 +1607,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6227,
+				"count": 6228,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1949,10 +1949,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4869,
+				"count": 4870,
 				"max": 10,
-				"star_count": 4,
-				"value": 8.4
+				"star_count": 4.5,
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2035,7 +2035,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229083,
+				"count": 229084,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2214,7 +2214,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14443,
+				"count": 14444,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2298,7 +2298,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825369,
+				"count": 825377,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2392,7 +2392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340777,
+				"count": 340781,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2483,7 +2483,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 472522,
+				"count": 472531,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2574,7 +2574,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 243051,
+				"count": 243050,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2658,7 +2658,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551738,
+				"count": 551744,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2840,7 +2840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782390,
+				"count": 782394,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2976,7 +2976,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1001309.jpg",
-			"min_sale_price": "¥26.07",
+			"min_sale_price": "¥25.97",
 			"press": [
 				"人民文学出版社"
 			],
@@ -3197,7 +3197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294790,
+				"count": 294794,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3283,7 +3283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316172,
+				"count": 316175,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3369,7 +3369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514728,
+				"count": 514739,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
