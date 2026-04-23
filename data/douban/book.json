@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64260,
+				"count": 64273,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -114,7 +114,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66437,
+				"count": 66441,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34302,
+				"count": 34305,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96219,
+				"count": 96222,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -459,7 +459,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 462296,
+				"count": 462315,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -554,7 +554,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 215284,
+				"count": 215290,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -634,163 +634,78 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/25886226 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25886226/interest/3321736618",
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
 		"tags": [],
 		"charts": [],
 		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2022-04-19 15:37:46",
+		"create_time": "2022-02-15 21:26:01",
 		"status": "done",
-		"id": 3321736618,
+		"id": 3240307853,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10331,
+				"count": 891,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 9
+				"star_count": 4,
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2015-1"
+				"2017-5"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s32293440.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s32293440.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 262,
+			"other_versions_count": 95,
 			"is_show": false,
 			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
-			"card_subtitle": "[法] 雨果 / 2015 / 人民文学出版社",
+			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
 			"book_subtitle": "",
-			"id": "25886226",
+			"id": "26954419",
 			"author": [
-				"[法] 雨果"
+				"[日] 夏目漱石"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a54a63",
+				"is_dark": false,
+				"primary_color_light": "f2ced4",
 				"_base_color": [
-					0.952991452991453,
-					0.5531914893617021,
-					0.5529411764705883
+					0.9684684684684685,
+					0.1491935483870968,
+					0.9725490196078431
 				],
-				"secondary_color": "f9f4f6",
+				"secondary_color": "f9f4f5",
 				"_avg_color": [
-					0.9570707070707071,
-					0.41509433962264153,
-					0.6235294117647059
+					0.9705882352941178,
+					0.0693877551020408,
+					0.9607843137254902
 				],
-				"primary_color_dark": "7f384c"
+				"primary_color_dark": "f2ced4"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/25886226.jpg",
-			"min_sale_price": "¥19.8",
-			"press": [
-				"人民文学出版社"
-			],
-			"pages": [
-				"457"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25886226",
-			"url": "https://book.douban.com/subject/25886226/",
-			"title": "巴黎圣母院",
-			"uri": "douban://douban.com/book/25886226",
-			"subtype": "book",
-			"intro": "《巴黎圣母院》艺术地再现了四百多年前法王路易十一统治时期的历史真实，宫廷与教会如何狼狈为奸压迫人民群众，人民群众怎样同两股势力英勇斗争。本书以1482年的法国为背景，以吉普赛姑娘爱丝美拉达与年轻英俊的卫队长，道貌岸然的副主教以及畸形、丑陋的敲钟人之间的关系为主线，热情呕歌了吉普赛姑娘与敲钟人高尚的品格，深刻鞭挞了卫队长与副主教的虚伪与卑下。小说体现了雨果的“美丑对照”的艺术表现原则，它的发表，打破了伪古典主义的桎梏，标志着浪漫主义的彻底胜利。",
-			"buy_more_uri": "douban://douban.com/book/25886226/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30267412/interest/3240312479",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2022-02-15 21:29:30",
-		"status": "done",
-		"id": 3240312479,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 2514,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9.4
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2018-4-1"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29812732.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29812732.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 167,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[英] 乔治·奥威尔 / 2018 / 北京工艺美术出版社",
-			"book_subtitle": "",
-			"id": "30267412",
-			"author": [
-				"[英] 乔治·奥威尔"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5140f",
-				"_base_color": [
-					0.005482456140350885,
-					0.9047619047619048,
-					0.6588235294117647
-				],
-				"secondary_color": "f9f5f4",
-				"_avg_color": [
-					0.008090614886731387,
-					0.7304964539007092,
-					0.5529411764705883
-				],
-				"primary_color_dark": "7f0f0c"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/30267412.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
 			"min_sale_price": null,
 			"press": [
-				"北京工艺美术出版社"
+				"中国友谊出版公司"
 			],
 			"pages": [
-				"186"
+				"480"
 			],
-			"sharing_url": "",
-			"url": "https://book.douban.com/subject/30267412/",
-			"title": "动物庄园",
-			"uri": "douban://douban.com/book/30267412",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
+			"url": "https://book.douban.com/subject/26954419/",
+			"title": "我是猫",
+			"uri": "douban://douban.com/book/26954419",
 			"subtype": "book",
-			"intro": "《动物庄园》是一部政治寓言体小说，故事描述了一场”动物主义”的酝酿、兴起和很终蜕变。一个农庄的动物不堪人类主人的压迫，在猪的带领下起来反抗，赶走了农庄主，牲畜们实现了”当家作主”的愿望，农场更名为”动物庄园”，奉行”所有动物一律平等”。之后，两只处于领导地位的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸。此后，获取了领导权的猪拥有了越来越大的权力，成为新的特权阶级;动物们稍有不满，便会招致的清洗:农庄的理想被修正为”有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。",
+			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
@@ -819,7 +734,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228376,
+				"count": 228381,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -912,7 +827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310900,
+				"count": 310906,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1085,6 +1000,92 @@
 			"star_count": 5,
 			"value": 5
 		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1841531 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1841531/interest/2999849978",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2021-08-15 21:59:35",
+		"status": "done",
+		"id": 2999849978,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3295,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"1978-4"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s3581447.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s3581447.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 139,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "笛福 / 1978 / 人民文学出版社",
+			"book_subtitle": "",
+			"id": "1841531",
+			"author": [
+				"笛福"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "717265",
+				"_base_color": [
+					0.17948717948717943,
+					0.11206896551724135,
+					0.4549019607843137
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.16666666666666666,
+					0.11009174311926606,
+					0.42745098039215684
+				],
+				"primary_color_dark": "4b4c43"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1841531.jpg",
+			"min_sale_price": null,
+			"press": [
+				"人民文学出版社"
+			],
+			"pages": [
+				"278"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1841531",
+			"url": "https://book.douban.com/subject/1841531/",
+			"title": "鲁滨孙漂流记",
+			"uri": "douban://douban.com/book/1841531",
+			"subtype": "book",
+			"intro": "",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
 		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/4872916 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4872916/interest/2999849412",
 		"tags": [],
@@ -1157,6 +1158,92 @@
 			"subtype": "book",
 			"intro": "《格列佛游记》是一部融讽刺和冒险于一体的小说，在这些作者虚构的国度中，有着18世纪英国社会的浓重痕迹。作者通过主人公途经不同国度的游历，揭示了当时英国社会的种种矛盾，并对英国的政治制度作了辛辣的讽刺。    因为在一次海上航行中遭遇风暴，外科医生格列佛意外闯入一个陌生的地方，不可思议的冒险从此开始了：在小人国遭遇战争，成功退敌后成为万人崇拜的大英雄；在大人国被当作玩偶，冒险出逃九死一生；在飞岛国，黑自颠倒、是非混淆的怪现象让人哭笑不得……充满奇思妙想的故事，让人快乐大笑的同时又引人思考。而对现实生活的关注和暗讽，也为本书赢得极高荣誉，使其成为英国讽刺小说的代表作之一。",
 			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/30245411 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30245411/interest/2999846993",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2021-08-15 21:58:03",
+		"status": "done",
+		"id": 2999846993,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1891,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2018-7"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29797136.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29797136.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 315,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[英] 夏洛蒂·勃朗特 / 2018 / 上海文艺出版社",
+			"book_subtitle": "",
+			"id": "30245411",
+			"author": [
+				"[英] 夏洛蒂·勃朗特"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "2c9ea5",
+				"_base_color": [
+					0.5093240093240093,
+					0.7333333333333334,
+					0.7647058823529411
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.5522875816993463,
+					0.326923076923077,
+					0.611764705882353
+				],
+				"primary_color_dark": "217a7f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/30245411.jpg",
+			"min_sale_price": "¥29.78",
+			"press": [
+				"上海文艺出版社"
+			],
+			"pages": [
+				"656"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30245411",
+			"url": "https://book.douban.com/subject/30245411/",
+			"title": "简·爱",
+			"uri": "douban://douban.com/book/30245411",
+			"subtype": "book",
+			"intro": "失去父母的女孩简，寄居亲戚家，受尽委屈。\n长大成人后，简到一所贵族庄园担任家庭教师，庄园主人罗切斯特却暗恋上她。在偶然得知罗切斯特是有妇之夫，而且还向她隐瞒了惊人真相后，简陷入了迷茫、挣扎、苦痛。\n她该何去何从？她的自我觉醒之路，能否让她最终找到真正的爱情和幸福？本书问世百年以来，简的爱情故事和心智成熟历程，感动了全球亿万读者，更启迪了千千万万的女性。",
+			"buy_more_uri": "douban://douban.com/book/30245411/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1270,7 +1357,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229111,
+				"count": 229113,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1284,7 +1371,7 @@
 				"normal": "https://img9.doubanio.com/view/subject/m/public/s6100756.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 66,
+			"other_versions_count": 67,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -1356,7 +1443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353399,
+				"count": 353401,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1449,7 +1536,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14462,
+				"count": 14463,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -1533,7 +1620,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825522,
+				"count": 825537,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1627,7 +1714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340858,
+				"count": 340863,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1718,7 +1805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 472768,
+				"count": 472793,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1809,7 +1896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 243093,
+				"count": 243096,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1893,7 +1980,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551890,
+				"count": 551903,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1984,7 +2071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511310,
+				"count": 511312,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2075,7 +2162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782516,
+				"count": 782526,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2166,7 +2253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18523,
+				"count": 18525,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2260,7 +2347,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294866,
+				"count": 294870,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2346,7 +2433,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316258,
+				"count": 316261,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2432,7 +2519,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514833,
+				"count": 514839,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2505,97 +2592,6 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/6082808 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6082808/interest/2999831969",
-		"tags": [],
-		"charts": [],
-		"is_editable": false,
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2021-08-15 21:50:38",
-		"status": "done",
-		"id": 2999831969,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 472768,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9.3
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2011-6"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s27237850.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s27237850.jpg"
-			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 6,
-					"title": "豆瓣图书Top250"
-				}
-			],
-			"other_versions_count": 82,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "[哥伦比亚] 加西亚·马尔克斯 / 2011 / 南海出版公司",
-			"book_subtitle": "",
-			"id": "6082808",
-			"author": [
-				"[哥伦比亚] 加西亚·马尔克斯"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "724a4a",
-				"_base_color": [
-					0,
-					0.35,
-					0.0784313725490196
-				],
-				"secondary_color": "f9f4f4",
-				"_avg_color": [
-					0.08000000000000002,
-					0.26041666666666663,
-					0.3764705882352941
-				],
-				"primary_color_dark": "4c3131"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/6082808.jpg",
-			"min_sale_price": "¥89.1",
-			"press": [
-				"南海出版公司"
-			],
-			"pages": [
-				"360"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/6082808",
-			"url": "https://book.douban.com/subject/6082808/",
-			"title": "百年孤独",
-			"uri": "douban://douban.com/book/6082808",
-			"subtype": "book",
-			"intro": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世纪最重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。",
-			"buy_more_uri": "douban://douban.com/book/6082808/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
 		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/3646172 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3646172/interest/2999830330",
 		"tags": [],
@@ -2609,7 +2605,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 243093,
+				"count": 243096,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2693,7 +2689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551890,
+				"count": 551903,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2784,7 +2780,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 511310,
+				"count": 511312,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2875,7 +2871,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782516,
+				"count": 782526,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3138,7 +3134,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18523,
+				"count": 18525,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3232,7 +3228,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294866,
+				"count": 294870,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3318,7 +3314,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316258,
+				"count": 316261,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3404,7 +3400,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514833,
+				"count": 514839,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
