@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64302,
+				"count": 64303,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -366,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96228,
+				"count": 96230,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -537,7 +537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 462367,
+				"count": 462372,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 215327,
+				"count": 215330,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -984,7 +984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228405,
+				"count": 228409,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1163,7 +1163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 310929,
+				"count": 310933,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2121,7 +2121,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 353405,
+				"count": 353407,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2214,7 +2214,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14472,
+				"count": 14473,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2298,7 +2298,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825579,
+				"count": 825587,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2392,7 +2392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 340884,
+				"count": 340888,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2483,7 +2483,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 472845,
+				"count": 472855,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2533,7 +2533,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/6082808.jpg",
-			"min_sale_price": "¥89.1",
+			"min_sale_price": "¥79.0",
 			"press": [
 				"南海出版公司"
 			],
@@ -2574,7 +2574,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 243106,
+				"count": 243107,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2840,7 +2840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 782549,
+				"count": 782552,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3197,7 +3197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 294881,
+				"count": 294882,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3283,7 +3283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316277,
+				"count": 316279,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3369,7 +3369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 514857,
+				"count": 514860,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
