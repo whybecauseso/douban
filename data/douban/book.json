@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65023,
+				"count": 65028,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 66784,
+				"count": 66785,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34502,
+				"count": 34503,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -327,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46484,
+				"count": 46485,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96531,
+				"count": 96537,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 463602,
+				"count": 463609,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216242,
+				"count": 216248,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -747,13 +747,13 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/25886226.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [],
 			"id": "25886226",
 			"intro": "《巴黎圣母院》艺术地再现了四百多年前法王路易十一统治时期的历史真实，宫廷与教会如何狼狈为奸压迫人民群众，人民群众怎样同两股势力英勇斗争。本书以1482年的法国为背景，以吉普赛姑娘爱丝美拉达与年轻英俊的卫队长，道貌岸然的副主教以及畸形、丑陋的敲钟人之间的关系为主线，热情呕歌了吉普赛姑娘与敲钟人高尚的品格，深刻鞭挞了卫队长与副主教的虚伪与卑下。小说体现了雨果的“美丑对照”的艺术表现原则，它的发表，打破了伪古典主义的桎梏，标志着浪漫主义的彻底胜利。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥22.6",
+			"min_sale_price": "¥21.6",
 			"null_rating_reason": "",
 			"other_versions_count": 262,
 			"pages": [
@@ -770,7 +770,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10359,
+				"count": 10360,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -781,9 +781,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/25886226",
 			"url": "https://book.douban.com/subject/25886226/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -1036,7 +1034,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 228946,
+				"count": 228950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1215,7 +1213,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 311760,
+				"count": 311766,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1308,7 +1306,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60357,
+				"count": 60358,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2080,7 +2078,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229273,
+				"count": 229276,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2173,7 +2171,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353546,
+				"count": 353549,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2259,7 +2257,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14592,
+				"count": 14593,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2350,7 +2348,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 826534,
+				"count": 826542,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2444,7 +2442,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341401,
+				"count": 341406,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2533,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 474287,
+				"count": 474299,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2619,7 +2617,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243348,
+				"count": 243349,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2710,7 +2708,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 553045,
+				"count": 553059,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2801,7 +2799,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511359,
+				"count": 511362,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2892,7 +2890,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783127,
+				"count": 783137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2976,7 +2974,7 @@
 				"1998-5"
 			],
 			"rating": {
-				"count": 2201,
+				"count": 2202,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3156,7 +3154,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18653,
+				"count": 18655,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3242,7 +3240,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295308,
+				"count": 295312,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3328,7 +3326,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 316768,
+				"count": 316776,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3412,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 515495,
+				"count": 515500,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
