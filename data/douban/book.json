@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65046,
+				"count": 65050,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -327,10 +327,10 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46488,
+				"count": 46491,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25733470",
 			"subtype": "book",
@@ -401,7 +401,7 @@
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥16.44",
+			"min_sale_price": "¥16.32",
 			"null_rating_reason": "",
 			"other_versions_count": 23,
 			"pages": [
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96547,
+				"count": 96548,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 463653,
+				"count": 463662,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216281,
+				"count": 216296,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1036,7 +1036,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 228964,
+				"count": 228967,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 311784,
+				"count": 311792,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1308,7 +1308,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60362,
+				"count": 60363,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1457,7 +1457,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/2161698.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [],
 			"id": "2161698",
 			"intro": "儒勒·凡尔纳（1828-1905），法国著名科幻小说家，“科幻小说之父”。《八十天环游地球》是他的重要小说之一。\n福格和改良俱乐部的会友以二万英镑为赌注，打赌可以在八十天里环游地球一周。随后他带着绰号叫“路路通”的仆人，从伦敦出发，开始了不可思议的环球旅行；最终历经天灾人祸，在没有飞机、远洋巨轮的十九世纪，竟然完成了这一天方夜谭般的绕地球一周，不仅赢得了打赌，而且获得了爱情。\n本书寓科学知识、创造力、艺术和趣味于一体，在全世界拥有广泛的读者。",
@@ -1491,9 +1491,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/2161698",
 			"url": "https://book.douban.com/subject/2161698/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -1566,7 +1564,7 @@
 				"1978-4"
 			],
 			"rating": {
-				"count": 3300,
+				"count": 3299,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1885,7 +1883,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/2221902.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [],
 			"id": "2221902",
 			"intro": "中国现代文学从来就是中外文化交汇撞击而催生成长的，翻译不仅对现代作家的文学创作产生了巨大的影响，对中国现代文学的发展有着推动作用，而且它也承担了思想启蒙和文化构建等时代赋予的使命，其历史价值不可低估。\n为了全面展示中国现代文学家的翻译成就，也让读者了解作家的另一个侧面，以及他们思想储备的重要来源，我们编辑出版这套《天火丛书》，选取中国现代著名作家翻译的外国文学名著。在书目的选择上，我们兼顾了作品的文化价值、在当时的文学影响和作用以及当今读者的阅读要求与口味。\n这些耳熟能详的曾经为几代作家提供滋养的名家名著或许你已经读过其他的译本，而这些现代作家的译笔也许生硬而拙朴，鲁迅便曾直言不讳自己的“硬译”，但他们绝不是简单的传声筒，这其中浸润的是执着和真诚，是移来他山之石的责任和使命。这些翻译著作是他们与外国作家心灵交流和对话的通道，是他们观察社会看取人生的窗口，也是他们文化价值取向的坐标。\n本书是歌德（1749-1832）二十四岁时的处女作，他起先本打算写成诗剧，但终以四星期的时日写成这样一部抒情的散文诗式的小说，这书是以一七七四年三月初旬脱稿的。\n书的内容主要是作者自己的生活经验不仅女主人公的绿蒂实有其人，就是男主人公的维特事实上也就是歌德自己。\n这书出版后受到热烈的欢迎，但也发生了一种值不得欢迎的副作用——那就是受了陶醉的青年男女每因婚姻不自由即以自杀表示抗议，一时形成了所谓的“维特热”，学维特以手枪自杀者，甚至于多仿效维特死时的服装。",
@@ -1919,9 +1917,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/2221902",
 			"url": "https://book.douban.com/subject/2221902/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2173,7 +2169,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353555,
+				"count": 353558,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2259,7 +2255,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14596,
+				"count": 14597,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2350,7 +2346,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 826565,
+				"count": 826570,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2444,7 +2440,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341422,
+				"count": 341427,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2531,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 474344,
+				"count": 474356,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2619,7 +2615,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243353,
+				"count": 243355,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2710,7 +2706,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 553090,
+				"count": 553101,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2801,7 +2797,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511364,
+				"count": 511365,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2892,7 +2888,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783161,
+				"count": 783168,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2976,7 +2972,7 @@
 				"1998-5"
 			],
 			"rating": {
-				"count": 2204,
+				"count": 2205,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3039,7 +3035,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [],
 			"id": "27144044",
 			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
@@ -3062,7 +3058,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3932,
+				"count": 3933,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3073,9 +3069,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/27144044",
 			"url": "https://book.douban.com/subject/27144044/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -3156,7 +3150,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18658,
+				"count": 18662,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3242,7 +3236,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295324,
+				"count": 295329,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3328,7 +3322,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 316788,
+				"count": 316793,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3408,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 515522,
+				"count": 515528,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
