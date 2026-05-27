@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65098,
+				"count": 65106,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 66811,
+				"count": 66812,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34520,
+				"count": 34522,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96560,
+				"count": 96562,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 463752,
+				"count": 463761,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216364,
+				"count": 216374,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -770,7 +770,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10362,
+				"count": 10363,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1036,7 +1036,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229012,
+				"count": 229014,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 311849,
+				"count": 311859,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1308,7 +1308,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60371,
+				"count": 60372,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1652,7 +1652,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6270,
+				"count": 6271,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2080,7 +2080,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229294,
+				"count": 229296,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2173,7 +2173,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353563,
+				"count": 353564,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2333,7 +2333,7 @@
 			"intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟随父亲逃往美国。\n成年后的阿米尔始终无法原谅自己当年对哈桑的背叛。为了赎罪，阿米尔再度踏上暌违二十多年的故乡，希望能为不幸的好友尽最后一点心力，却发现一个惊天谎言，儿时的噩梦再度重演，阿米尔该如何抉择？\n故事如此残忍而又美丽，作者以温暖细腻的笔法勾勒人性的本质与救赎，读来令人荡气回肠。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥23.0",
+			"min_sale_price": "¥30.6",
 			"null_rating_reason": "",
 			"other_versions_count": 21,
 			"pages": [
@@ -2350,7 +2350,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 826651,
+				"count": 826658,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2444,7 +2444,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341474,
+				"count": 341483,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2535,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 474463,
+				"count": 474476,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2619,7 +2619,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243377,
+				"count": 243382,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2710,7 +2710,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 553192,
+				"count": 553202,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2801,7 +2801,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511366,
+				"count": 511367,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2892,7 +2892,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783226,
+				"count": 783233,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3062,7 +3062,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3933,
+				"count": 3934,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3242,7 +3242,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295361,
+				"count": 295362,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3328,7 +3328,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 316838,
+				"count": 316839,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3414,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 515583,
+				"count": 515588,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
