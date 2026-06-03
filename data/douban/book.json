@@ -327,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46519,
+				"count": 46520,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 464074,
+				"count": 464075,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312053,
+				"count": 312054,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2444,7 +2444,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341602,
+				"count": 341603,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2485,7 +2485,7 @@
 				"[哥伦比亚] 加西亚·马尔克斯"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/6082808/vendors_douban",
+			"buy_more_uri": "",
 			"card_subtitle": "[哥伦比亚] 加西亚·马尔克斯 / 2011 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -2518,7 +2518,7 @@
 			"intro": "《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世纪最重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥77.98",
+			"min_sale_price": "",
 			"null_rating_reason": "",
 			"other_versions_count": 83,
 			"pages": [
@@ -2535,7 +2535,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 474844,
+				"count": 474845,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2892,7 +2892,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783423,
+				"count": 783424,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
