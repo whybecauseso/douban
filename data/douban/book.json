@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65374,
+				"count": 65378,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 66932,
+				"count": 66934,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34591,
+				"count": 34592,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96647,
+				"count": 96646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 464250,
+				"count": 464267,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216670,
+				"count": 216680,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1036,7 +1036,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229198,
+				"count": 229210,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1122,7 +1122,7 @@
 				"2014-4"
 			],
 			"rating": {
-				"count": 1979,
+				"count": 1980,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1185,7 +1185,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/4820710.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312148,
+				"count": 312162,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1226,9 +1226,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/4820710",
 			"url": "https://book.douban.com/subject/4820710/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2080,7 +2078,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229362,
+				"count": 229364,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2173,7 +2171,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353611,
+				"count": 353610,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2259,7 +2257,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14653,
+				"count": 14654,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2350,7 +2348,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827040,
+				"count": 827047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2444,7 +2442,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341668,
+				"count": 341673,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2533,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 474978,
+				"count": 474990,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2619,7 +2617,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243464,
+				"count": 243467,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2710,7 +2708,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 553587,
+				"count": 553597,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2801,7 +2799,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511403,
+				"count": 511404,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2892,7 +2890,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783530,
+				"count": 783545,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3139,7 +3137,7 @@
 			"intro": "一部最甜蜜的描写儿童生活的小说。安妮是个身世凄凉的小女孩，出生不久即父母双亡，成了孤儿。好心的邻居把她养到六岁之后她又到另一户人家看孩子，后来被送到了孤儿院。十一岁的时候，绿山墙的马修和玛莉拉收养了她。安妮天性活泼乐观，想像力极为丰富。她的天真和幻想使闹了不少笑话，但她的善良和直率也使她赢得了友谊和真挚的爱。她聪明而勤奋，凭着自己的努力考取了大学，但为了照顾玛莉拉，她又放弃了学业。这是一个孤儿长大成人的故事，朴实而绚丽，充满着童心和梦幻。\n绿山墙农舍的卡思伯特兄妹决定领养一个男孩，帮着做田里的农活。令人大吃一惊的是，孤儿院送来了一个爱幻想、喋喋不休的红发孩，一个小精灵。这个小精灵像一股清新的风吹进了闭塞的农舍乡村。故事由此开始……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥12.74",
+			"min_sale_price": "¥15.4",
 			"null_rating_reason": "",
 			"other_versions_count": 125,
 			"pages": [
@@ -3156,7 +3154,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18698,
+				"count": 18701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3328,7 +3326,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317015,
+				"count": 317018,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3412,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 515811,
+				"count": 515816,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
