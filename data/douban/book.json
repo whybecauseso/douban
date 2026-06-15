@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65543,
+				"count": 65548,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67024,
+				"count": 67026,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34634,
+				"count": 34635,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -392,7 +392,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 178,
+					"rank": 179,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96712,
+				"count": 96713,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 464563,
+				"count": 464571,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 216878,
+				"count": 216881,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -753,7 +753,7 @@
 			"intro": "《巴黎圣母院》艺术地再现了四百多年前法王路易十一统治时期的历史真实，宫廷与教会如何狼狈为奸压迫人民群众，人民群众怎样同两股势力英勇斗争。本书以1482年的法国为背景，以吉普赛姑娘爱丝美拉达与年轻英俊的卫队长，道貌岸然的副主教以及畸形、丑陋的敲钟人之间的关系为主线，热情呕歌了吉普赛姑娘与敲钟人高尚的品格，深刻鞭挞了卫队长与副主教的虚伪与卑下。小说体现了雨果的“美丑对照”的艺术表现原则，它的发表，打破了伪古典主义的桎梏，标志着浪漫主义的彻底胜利。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥22.6",
+			"min_sale_price": "¥22.32",
 			"null_rating_reason": "",
 			"other_versions_count": 275,
 			"pages": [
@@ -770,7 +770,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10374,
+				"count": 10375,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1036,7 +1036,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229328,
+				"count": 229332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312347,
+				"count": 312350,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1308,7 +1308,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60470,
+				"count": 60472,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1652,7 +1652,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6295,
+				"count": 6296,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2080,7 +2080,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229407,
+				"count": 229408,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2173,7 +2173,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353634,
+				"count": 353633,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2259,7 +2259,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14678,
+				"count": 14679,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2324,7 +2324,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 56,
+					"rank": 57,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2350,7 +2350,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827258,
+				"count": 827265,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2418,7 +2418,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 37,
+					"rank": 36,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2444,7 +2444,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341790,
+				"count": 341793,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2535,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 475325,
+				"count": 475334,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2684,7 +2684,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 67,
+					"rank": 69,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2693,7 +2693,7 @@
 			"intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由他料理善后。石神设了一个匪夷所思的局，令警方始终只能在外围敲敲打打，根本无法与案子沾边。石神究竟使用了什么手法？",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥17.13",
+			"min_sale_price": "¥15.42",
 			"null_rating_reason": "",
 			"other_versions_count": 29,
 			"pages": [
@@ -2710,7 +2710,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 553836,
+				"count": 553840,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2801,7 +2801,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511426,
+				"count": 511427,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2866,7 +2866,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 247,
+					"rank": 250,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2892,7 +2892,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783695,
+				"count": 783701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3156,7 +3156,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18720,
+				"count": 18721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3242,7 +3242,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295603,
+				"count": 295604,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3328,7 +3328,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317117,
+				"count": 317118,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3414,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 515964,
+				"count": 515969,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
