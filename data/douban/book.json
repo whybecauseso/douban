@@ -327,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46562,
+				"count": 46563,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 464900,
+				"count": 464901,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -1185,7 +1185,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/4820710.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -1226,7 +1226,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/4820710",
 			"url": "https://book.douban.com/subject/4820710/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2348,7 +2350,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827505,
+				"count": 827507,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2442,7 +2444,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 341957,
+				"count": 341958,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2533,7 +2535,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 475713,
+				"count": 475714,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2708,7 +2710,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554098,
+				"count": 554099,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2890,7 +2892,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783874,
+				"count": 783875,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3154,7 +3156,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18740,
+				"count": 18741,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3240,7 +3242,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295719,
+				"count": 295721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3326,7 +3328,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317250,
+				"count": 317252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
