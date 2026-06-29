@@ -46,7 +46,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 176,
+					"rank": 177,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 65843,
+				"count": 65853,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67176,
+				"count": 67178,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34727,
+				"count": 34728,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -392,7 +392,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 183,
+					"rank": 184,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96822,
+				"count": 96825,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -590,7 +590,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 465095,
+				"count": 465107,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -684,7 +684,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217266,
+				"count": 217276,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -770,7 +770,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10392,
+				"count": 10393,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1036,7 +1036,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229576,
+				"count": 229578,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1215,7 +1215,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312683,
+				"count": 312687,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1308,7 +1308,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60523,
+				"count": 60524,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2080,7 +2080,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229476,
+				"count": 229477,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2173,7 +2173,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353691,
+				"count": 353692,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2350,7 +2350,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827635,
+				"count": 827638,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2444,7 +2444,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342011,
+				"count": 342014,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2535,7 +2535,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 475914,
+				"count": 475929,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2619,7 +2619,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243591,
+				"count": 243593,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2710,7 +2710,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554245,
+				"count": 554252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2892,7 +2892,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 783940,
+				"count": 783945,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3156,7 +3156,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18763,
+				"count": 18764,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3242,7 +3242,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295777,
+				"count": 295780,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3328,7 +3328,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317337,
+				"count": 317343,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3414,7 +3414,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516248,
+				"count": 516253,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
