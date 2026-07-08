@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67296,
+				"count": 67298,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -401,7 +401,7 @@
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥19.04",
+			"min_sale_price": "¥19.11",
 			"null_rating_reason": "",
 			"other_versions_count": 23,
 			"pages": [
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96886,
+				"count": 96887,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -512,7 +512,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 465554,
+				"count": 465562,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -606,7 +606,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217517,
+				"count": 217524,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -692,7 +692,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10402,
+				"count": 10401,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -958,7 +958,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229751,
+				"count": 229759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1051,7 +1051,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312904,
+				"count": 312912,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1167,6 +1167,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2021-08-15 22:00:13",
+		"id": 2999851256,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/2161698 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2161698/interest/2999851256",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[法]儒勒·凡尔纳"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[法]儒勒·凡尔纳 / 2007 / 上海译文出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.05649717514124292,
+					0.23886639676113355,
+					0.9686274509803922
+				],
+				"_avg_color": [
+					0.051912568306010966,
+					0.24696356275303646,
+					0.9686274509803922
+				],
+				"primary_color_light": "f2cbb8",
+				"primary_color_dark": "f2cbb8",
+				"secondary_color": "f9f6f4",
+				"is_dark": false
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/2161698.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "2161698",
+			"intro": "儒勒·凡尔纳（1828-1905），法国著名科幻小说家，“科幻小说之父”。《八十天环游地球》是他的重要小说之一。\n福格和改良俱乐部的会友以二万英镑为赌注，打赌可以在八十天里环游地球一周。随后他带着绰号叫“路路通”的仆人，从伦敦出发，开始了不可思议的环球旅行；最终历经天灾人祸，在没有飞机、远洋巨轮的十九世纪，竟然完成了这一天方夜谭般的绕地球一周，不仅赢得了打赌，而且获得了爱情。\n本书寓科学知识、创造力、艺术和趣味于一体，在全世界拥有广泛的读者。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 252,
+			"pages": [
+				"213"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s2652476.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s2652476.jpg"
+			},
+			"press": [
+				"上海译文出版社"
+			],
+			"pubdate": [
+				"2007-7"
+			],
+			"rating": {
+				"count": 3375,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2161698",
+			"subtype": "book",
+			"title": "八十天环游地球",
+			"type": "book",
+			"uri": "douban://douban.com/book/2161698",
+			"url": "https://book.douban.com/subject/2161698/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2021-08-15 21:59:35",
 		"id": 2999849978,
 		"is_editable": false,
@@ -1253,8 +1339,8 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 21:57:29",
-		"id": 2999845848,
+		"create_time": "2021-08-15 21:59:17",
+		"id": 2999849412,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
@@ -1264,69 +1350,155 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/2221902 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2221902/interest/2999845848",
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/4872916 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4872916/interest/2999849412",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"(德)歌德"
+				"乔纳森•斯威夫特 (Jonathan Swift)"
 			],
 			"book_subtitle": "",
 			"buy_more_uri": "",
-			"card_subtitle": "(德)歌德 / 2007 / 人民文学出版社",
+			"card_subtitle": "乔纳森•斯威夫特 (Jonathan Swift) / 2010 / 译林出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.12280701754385959,
-					0.07755102040816333,
-					0.9607843137254902
+					0.59,
+					0.6944444444444444,
+					0.5647058823529412
 				],
 				"_avg_color": [
-					0.1083333333333335,
-					0.08230452674897114,
-					0.9529411764705882
+					0.5893719806763285,
+					0.5036496350364963,
+					0.5372549019607843
 				],
-				"primary_color_light": "f2eddf",
-				"primary_color_dark": "f2eddf",
-				"secondary_color": "f9f8f4",
-				"is_dark": false
+				"primary_color_light": "3267a5",
+				"primary_color_dark": "264f7f",
+				"secondary_color": "f4f7f9",
+				"is_dark": true
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/2221902.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/4872916.jpg",
 			"has_ebook": true,
 			"honor_infos": [],
-			"id": "2221902",
-			"intro": "中国现代文学从来就是中外文化交汇撞击而催生成长的，翻译不仅对现代作家的文学创作产生了巨大的影响，对中国现代文学的发展有着推动作用，而且它也承担了思想启蒙和文化构建等时代赋予的使命，其历史价值不可低估。\n为了全面展示中国现代文学家的翻译成就，也让读者了解作家的另一个侧面，以及他们思想储备的重要来源，我们编辑出版这套《天火丛书》，选取中国现代著名作家翻译的外国文学名著。在书目的选择上，我们兼顾了作品的文化价值、在当时的文学影响和作用以及当今读者的阅读要求与口味。\n这些耳熟能详的曾经为几代作家提供滋养的名家名著或许你已经读过其他的译本，而这些现代作家的译笔也许生硬而拙朴，鲁迅便曾直言不讳自己的“硬译”，但他们绝不是简单的传声筒，这其中浸润的是执着和真诚，是移来他山之石的责任和使命。这些翻译著作是他们与外国作家心灵交流和对话的通道，是他们观察社会看取人生的窗口，也是他们文化价值取向的坐标。\n本书是歌德（1749-1832）二十四岁时的处女作，他起先本打算写成诗剧，但终以四星期的时日写成这样一部抒情的散文诗式的小说，这书是以一七七四年三月初旬脱稿的。\n书的内容主要是作者自己的生活经验不仅女主人公的绿蒂实有其人，就是男主人公的维特事实上也就是歌德自己。\n这书出版后受到热烈的欢迎，但也发生了一种值不得欢迎的副作用——那就是受了陶醉的青年男女每因婚姻不自由即以自杀表示抗议，一时形成了所谓的“维特热”，学维特以手枪自杀者，甚至于多仿效维特死时的服装。",
+			"id": "4872916",
+			"intro": "《格列佛游记》是一部融讽刺和冒险于一体的小说，在这些作者虚构的国度中，有着18世纪英国社会的浓重痕迹。作者通过主人公途经不同国度的游历，揭示了当时英国社会的种种矛盾，并对英国的政治制度作了辛辣的讽刺。    因为在一次海上航行中遭遇风暴，外科医生格列佛意外闯入一个陌生的地方，不可思议的冒险从此开始了：在小人国遭遇战争，成功退敌后成为万人崇拜的大英雄；在大人国被当作玩偶，冒险出逃九死一生；在飞岛国，黑自颠倒、是非混淆的怪现象让人哭笑不得……充满奇思妙想的故事，让人快乐大笑的同时又引人思考。而对现实生活的关注和暗讽，也为本书赢得极高荣誉，使其成为英国讽刺小说的代表作之一。",
 			"is_released": true,
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 186,
+			"other_versions_count": 329,
 			"pages": [
-				"165"
+				"235"
 			],
 			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s2899473.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s2899473.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s4511507.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s4511507.jpg"
 			},
 			"press": [
-				"人民文学出版社"
+				"译林出版社"
 			],
 			"pubdate": [
-				"2007-7-1"
+				"2010-6-1"
 			],
 			"rating": {
-				"count": 5585,
+				"count": 6337,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2221902",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4872916",
 			"subtype": "book",
-			"title": "少年维特之烦恼",
+			"title": "格列佛游记",
 			"type": "book",
-			"uri": "douban://douban.com/book/2221902",
-			"url": "https://book.douban.com/subject/2221902/",
+			"uri": "douban://douban.com/book/4872916",
+			"url": "https://book.douban.com/subject/4872916/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:58:03",
+		"id": 2999846993,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/30245411 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30245411/interest/2999846993",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[英] 夏洛蒂·勃朗特"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/30245411/vendors_douban",
+			"card_subtitle": "[英] 夏洛蒂·勃朗特 / 2018 / 上海文艺出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.5093240093240093,
+					0.7333333333333334,
+					0.7647058823529411
+				],
+				"_avg_color": [
+					0.5522875816993463,
+					0.326923076923077,
+					0.611764705882353
+				],
+				"primary_color_light": "2c9ea5",
+				"primary_color_dark": "217a7f",
+				"secondary_color": "f4f9f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/30245411.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "30245411",
+			"intro": "失去父母的女孩简，寄居亲戚家，受尽委屈。\n长大成人后，简到一所贵族庄园担任家庭教师，庄园主人罗切斯特却暗恋上她。在偶然得知罗切斯特是有妇之夫，而且还向她隐瞒了惊人真相后，简陷入了迷茫、挣扎、苦痛。\n她该何去何从？她的自我觉醒之路，能否让她最终找到真正的爱情和幸福？本书问世百年以来，简的爱情故事和心智成熟历程，感动了全球亿万读者，更启迪了千千万万的女性。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥46.8",
+			"null_rating_reason": "",
+			"other_versions_count": 316,
+			"pages": [
+				"656"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29797136.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29797136.jpg"
+			},
+			"press": [
+				"上海文艺出版社"
+			],
+			"pubdate": [
+				"2018-7"
+			],
+			"rating": {
+				"count": 1910,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30245411",
+			"subtype": "book",
+			"title": "简·爱",
+			"type": "book",
+			"uri": "douban://douban.com/book/30245411",
+			"url": "https://book.douban.com/subject/30245411/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1488,7 +1660,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229536,
+				"count": 229537,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1581,7 +1753,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353726,
+				"count": 353727,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1758,7 +1930,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827903,
+				"count": 827906,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1852,7 +2024,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342153,
+				"count": 342160,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1943,7 +2115,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 476312,
+				"count": 476322,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2027,7 +2199,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243647,
+				"count": 243648,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2118,7 +2290,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554530,
+				"count": 554532,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2209,7 +2381,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511472,
+				"count": 511473,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2300,7 +2472,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784079,
+				"count": 784082,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2312,178 +2484,6 @@
 			"uri": "douban://douban.com/book/25862578",
 			"url": "https://book.douban.com/subject/25862578/",
 			"vendor_icons": [],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:48:12",
-		"id": 2999827100,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1001309 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1001309/interest/2999827100",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[法] 埃克多·马洛"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/1001309/vendors_douban",
-			"card_subtitle": "[法] 埃克多·马洛 / 1998 / 人民文学出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.49404761904761907,
-					0.2692307692307692,
-					0.40784313725490196
-				],
-				"_avg_color": [
-					0.45999999999999996,
-					0.2118644067796611,
-					0.4627450980392157
-				],
-				"primary_color_light": "537271",
-				"primary_color_dark": "374c4b",
-				"secondary_color": "f4f9f9",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/1001309.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "1001309",
-			"intro": "雷米被养父租给了一个卖艺人，从此开始了他作为流浪小艺人浪迹天涯的生活。在流浪途中，他经历了很多苦难，但他始终抱着坚定的信念，凭着顽强、坚韧的意志克服了种种磨难，终于找到了亲人、朋友，过上了幸福的生活。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥26.07",
-			"null_rating_reason": "",
-			"other_versions_count": 16,
-			"pages": [
-				"706"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s1236649.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s1236649.jpg"
-			},
-			"press": [
-				"人民文学出版社"
-			],
-			"pubdate": [
-				"1998-5"
-			],
-			"rating": {
-				"count": 2217,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.7
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1001309",
-			"subtype": "book",
-			"title": "苦儿流浪记",
-			"type": "book",
-			"uri": "douban://douban.com/book/1001309",
-			"url": "https://book.douban.com/subject/1001309/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:47:50",
-		"id": 2999826383,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"(苏)尼古拉·奥斯特洛夫斯基"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.075,
-					0.5555555555555556,
-					0.1411764705882353
-				],
-				"_avg_color": [
-					0.07407407407407385,
-					0.05921052631578945,
-					0.596078431372549
-				],
-				"primary_color_light": "a57349",
-				"primary_color_dark": "7f5838",
-				"secondary_color": "f9f7f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "27144044",
-			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 278,
-			"pages": [
-				"440"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
-			},
-			"press": [
-				"天津人民出版社"
-			],
-			"pubdate": [
-				"2017-9"
-			],
-			"rating": {
-				"count": 3936,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.4
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
-			"subtype": "book",
-			"title": "钢铁是怎样炼成的",
-			"type": "book",
-			"uri": "douban://douban.com/book/27144044",
-			"url": "https://book.douban.com/subject/27144044/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2564,7 +2564,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18801,
+				"count": 18802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2633,7 +2633,7 @@
 			"intro": "与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。\n使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上一个微不足道的插曲。真正的星际战争没人见过，也不可能见到，因为战争的方式和武器已经远远超出人类的想象，目睹战场之日，即是灭亡之时。\n宇宙的田园时代已经远去，昙花一现的终极之美最终变成任何智慧体都无法做出的梦，变成游吟诗人缥缈的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。\n太阳系中的人们永远不会知道这一切，最后直面真相的，只有两双眼睛。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥11.3",
+			"min_sale_price": "¥10.3",
 			"null_rating_reason": "",
 			"other_versions_count": 36,
 			"pages": [
@@ -2650,7 +2650,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295886,
+				"count": 295887,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2736,7 +2736,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317475,
+				"count": 317476,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2822,7 +2822,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516424,
+				"count": 516432,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2915,7 +2915,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784079,
+				"count": 784082,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3179,7 +3179,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18801,
+				"count": 18802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3248,7 +3248,7 @@
 			"intro": "与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。\n使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上一个微不足道的插曲。真正的星际战争没人见过，也不可能见到，因为战争的方式和武器已经远远超出人类的想象，目睹战场之日，即是灭亡之时。\n宇宙的田园时代已经远去，昙花一现的终极之美最终变成任何智慧体都无法做出的梦，变成游吟诗人缥缈的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。\n太阳系中的人们永远不会知道这一切，最后直面真相的，只有两双眼睛。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥11.3",
+			"min_sale_price": "¥10.3",
 			"null_rating_reason": "",
 			"other_versions_count": 36,
 			"pages": [
@@ -3265,7 +3265,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295886,
+				"count": 295887,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3351,7 +3351,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317475,
+				"count": 317476,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3437,7 +3437,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516424,
+				"count": 516432,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
