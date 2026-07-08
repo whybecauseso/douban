@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66032,
+				"count": 66035,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67298,
+				"count": 67300,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -327,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46594,
+				"count": 46596,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96887,
+				"count": 96891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -512,7 +512,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 465562,
+				"count": 465575,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -606,7 +606,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217524,
+				"count": 217533,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -778,7 +778,7 @@
 				"2018-4-1"
 			],
 			"rating": {
-				"count": 2525,
+				"count": 2526,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -790,93 +790,6 @@
 			"uri": "douban://douban.com/book/30267412",
 			"url": "https://book.douban.com/subject/30267412/",
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2022-02-15 21:26:01",
-		"id": 3240307853,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[日] 夏目漱石"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
-			"color_scheme": {
-				"_base_color": [
-					0.9684684684684685,
-					0.1491935483870968,
-					0.9725490196078431
-				],
-				"_avg_color": [
-					0.9705882352941178,
-					0.0693877551020408,
-					0.9607843137254902
-				],
-				"primary_color_light": "f2ced4",
-				"primary_color_dark": "f2ced4",
-				"secondary_color": "f9f4f5",
-				"is_dark": false
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "26954419",
-			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 96,
-			"pages": [
-				"480"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
-			},
-			"press": [
-				"中国友谊出版公司"
-			],
-			"pubdate": [
-				"2017-5"
-			],
-			"rating": {
-				"count": 902,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.6
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
-			"subtype": "book",
-			"title": "我是猫",
-			"type": "book",
-			"uri": "douban://douban.com/book/26954419",
-			"url": "https://book.douban.com/subject/26954419/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"vendor_original_price": "",
@@ -958,7 +871,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229759,
+				"count": 229765,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -969,6 +882,92 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/1068920",
 			"url": "https://book.douban.com/subject/1068920/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2022-01-01 22:54:17",
+		"id": 3114908743,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/25869264 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25869264/interest/3114908743",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[日] 村上春树"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[日] 村上春树 / 2014 / 上海译文出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.19892473118279566,
+					0.24701195219123498,
+					0.984313725490196
+				],
+				"_avg_color": [
+					0.20218579234972678,
+					0.25000000000000006,
+					0.9568627450980393
+				],
+				"primary_color_light": "e6f2b6",
+				"primary_color_dark": "e6f2b6",
+				"secondary_color": "f8f9f4",
+				"is_dark": false
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/25869264.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "25869264",
+			"intro": "《国境以南 太阳以西》系日本著名作家村上春树的重要作品之一。描述三十七岁的男主人公是一个在东京拥有两家兴旺的酒吧，又有娇妻爱女的成功人士。然而，他的内心还是感到饥饿和干渴，只是小学时的女同学使他缺憾的部分充盈起来，相见后她却一去杳无影讯……。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 28,
+			"pages": [
+				"260"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s27553771.jpg",
+				"normal": "https://img2.doubanio.com/view/subject/m/public/s27553771.jpg"
+			},
+			"press": [
+				"上海译文出版社"
+			],
+			"pubdate": [
+				"2014-4"
+			],
+			"rating": {
+				"count": 1985,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25869264",
+			"subtype": "book",
+			"title": "国境以南 太阳以西",
+			"type": "book",
+			"uri": "douban://douban.com/book/25869264",
+			"url": "https://book.douban.com/subject/25869264/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1051,7 +1050,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 312912,
+				"count": 312919,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1230,7 +1229,7 @@
 				"2007-7"
 			],
 			"rating": {
-				"count": 3375,
+				"count": 3376,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1327,178 +1326,6 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/1841531",
 			"url": "https://book.douban.com/subject/1841531/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:59:17",
-		"id": 2999849412,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/4872916 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4872916/interest/2999849412",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"乔纳森•斯威夫特 (Jonathan Swift)"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "乔纳森•斯威夫特 (Jonathan Swift) / 2010 / 译林出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.59,
-					0.6944444444444444,
-					0.5647058823529412
-				],
-				"_avg_color": [
-					0.5893719806763285,
-					0.5036496350364963,
-					0.5372549019607843
-				],
-				"primary_color_light": "3267a5",
-				"primary_color_dark": "264f7f",
-				"secondary_color": "f4f7f9",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/4872916.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "4872916",
-			"intro": "《格列佛游记》是一部融讽刺和冒险于一体的小说，在这些作者虚构的国度中，有着18世纪英国社会的浓重痕迹。作者通过主人公途经不同国度的游历，揭示了当时英国社会的种种矛盾，并对英国的政治制度作了辛辣的讽刺。    因为在一次海上航行中遭遇风暴，外科医生格列佛意外闯入一个陌生的地方，不可思议的冒险从此开始了：在小人国遭遇战争，成功退敌后成为万人崇拜的大英雄；在大人国被当作玩偶，冒险出逃九死一生；在飞岛国，黑自颠倒、是非混淆的怪现象让人哭笑不得……充满奇思妙想的故事，让人快乐大笑的同时又引人思考。而对现实生活的关注和暗讽，也为本书赢得极高荣誉，使其成为英国讽刺小说的代表作之一。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 329,
-			"pages": [
-				"235"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s4511507.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s4511507.jpg"
-			},
-			"press": [
-				"译林出版社"
-			],
-			"pubdate": [
-				"2010-6-1"
-			],
-			"rating": {
-				"count": 6337,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.1
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4872916",
-			"subtype": "book",
-			"title": "格列佛游记",
-			"type": "book",
-			"uri": "douban://douban.com/book/4872916",
-			"url": "https://book.douban.com/subject/4872916/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:58:03",
-		"id": 2999846993,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/30245411 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30245411/interest/2999846993",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[英] 夏洛蒂·勃朗特"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/30245411/vendors_douban",
-			"card_subtitle": "[英] 夏洛蒂·勃朗特 / 2018 / 上海文艺出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.5093240093240093,
-					0.7333333333333334,
-					0.7647058823529411
-				],
-				"_avg_color": [
-					0.5522875816993463,
-					0.326923076923077,
-					0.611764705882353
-				],
-				"primary_color_light": "2c9ea5",
-				"primary_color_dark": "217a7f",
-				"secondary_color": "f4f9f9",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/30245411.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "30245411",
-			"intro": "失去父母的女孩简，寄居亲戚家，受尽委屈。\n长大成人后，简到一所贵族庄园担任家庭教师，庄园主人罗切斯特却暗恋上她。在偶然得知罗切斯特是有妇之夫，而且还向她隐瞒了惊人真相后，简陷入了迷茫、挣扎、苦痛。\n她该何去何从？她的自我觉醒之路，能否让她最终找到真正的爱情和幸福？本书问世百年以来，简的爱情故事和心智成熟历程，感动了全球亿万读者，更启迪了千千万万的女性。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥46.8",
-			"null_rating_reason": "",
-			"other_versions_count": 316,
-			"pages": [
-				"656"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s29797136.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s29797136.jpg"
-			},
-			"press": [
-				"上海文艺出版社"
-			],
-			"pubdate": [
-				"2018-7"
-			],
-			"rating": {
-				"count": 1910,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30245411",
-			"subtype": "book",
-			"title": "简·爱",
-			"type": "book",
-			"uri": "douban://douban.com/book/30245411",
-			"url": "https://book.douban.com/subject/30245411/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1930,7 +1757,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 827906,
+				"count": 827914,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2024,7 +1851,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342160,
+				"count": 342164,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2115,7 +1942,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 476322,
+				"count": 476337,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2199,7 +2026,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243648,
+				"count": 243651,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2290,7 +2117,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554532,
+				"count": 554540,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2472,7 +2299,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784082,
+				"count": 784084,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2484,6 +2311,92 @@
 			"uri": "douban://douban.com/book/25862578",
 			"url": "https://book.douban.com/subject/25862578/",
 			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:47:50",
+		"id": 2999826383,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"(苏)尼古拉·奥斯特洛夫斯基"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/27144044/vendors_douban",
+			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.075,
+					0.5555555555555556,
+					0.1411764705882353
+				],
+				"_avg_color": [
+					0.07407407407407385,
+					0.05921052631578945,
+					0.596078431372549
+				],
+				"primary_color_light": "a57349",
+				"primary_color_dark": "7f5838",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "27144044",
+			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥21.6",
+			"null_rating_reason": "",
+			"other_versions_count": 278,
+			"pages": [
+				"440"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
+			},
+			"press": [
+				"天津人民出版社"
+			],
+			"pubdate": [
+				"2017-9"
+			],
+			"rating": {
+				"count": 3936,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
+			"subtype": "book",
+			"title": "钢铁是怎样炼成的",
+			"type": "book",
+			"uri": "douban://douban.com/book/27144044",
+			"url": "https://book.douban.com/subject/27144044/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2650,7 +2563,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295887,
+				"count": 295891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2736,7 +2649,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317476,
+				"count": 317485,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2822,7 +2735,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516432,
+				"count": 516440,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2836,6 +2749,97 @@
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:49:16",
+		"id": 2999829323,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/3259440 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3259440/interest/2999829323",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[日] 东野圭吾"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/3259440/vendors_douban",
+			"card_subtitle": "[日] 东野圭吾 / 2008 / 南海出版公司",
+			"color_scheme": {
+				"_base_color": [
+					0.16666666666666666,
+					0.019230769230769162,
+					0.20392156862745098
+				],
+				"_avg_color": [
+					0,
+					0.006060606060606039,
+					0.6470588235294118
+				],
+				"primary_color_light": "a5a5a2",
+				"primary_color_dark": "7f7f7d",
+				"secondary_color": "f9f9f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/3259440.jpg",
+			"has_ebook": false,
+			"honor_infos": [
+				{
+					"kind": "book",
+					"rank": 1,
+					"title": "豆瓣热门推理图书TOP10",
+					"uri": "douban://douban.com/subject_collection/ECPIKVLHA?type=rank&category=book&rank_type=topn_book"
+				}
+			],
+			"id": "3259440",
+			"intro": "“只希望能手牵手在太阳下散步”，这个象征故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的故事片段像纪录片一样一一还原：没有痴痴相思，没有海枯石烂，只剩下一个冰冷绝望的诡计，最后一丝温情也被完全抛弃，万千读者在一曲救赎罪恶的凄苦爱情中悲切动容……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥16.56",
+			"null_rating_reason": "",
+			"other_versions_count": 20,
+			"pages": [
+				"467"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s4610502.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s4610502.jpg"
+			},
+			"press": [
+				"南海出版公司"
+			],
+			"pubdate": [
+				"2008-9"
+			],
+			"rating": {
+				"count": 511473,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.1
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/3259440",
+			"subtype": "book",
+			"title": "白夜行",
+			"type": "book",
+			"uri": "douban://douban.com/book/3259440",
+			"url": "https://book.douban.com/subject/3259440/",
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2915,7 +2919,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784082,
+				"count": 784084,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3265,7 +3269,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 295887,
+				"count": 295891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3351,7 +3355,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317476,
+				"count": 317485,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3437,7 +3441,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516432,
+				"count": 516440,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
