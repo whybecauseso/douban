@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66301,
+				"count": 66305,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67387,
+				"count": 67388,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34854,
+				"count": 34857,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -327,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46621,
+				"count": 46623,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -512,7 +512,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466066,
+				"count": 466074,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -606,7 +606,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217828,
+				"count": 217832,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -715,8 +715,8 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2022-02-15 21:26:01",
-		"id": 3240307853,
+		"create_time": "2022-02-15 21:29:30",
+		"id": 3240312479,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
@@ -726,71 +726,70 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
+		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30267412/interest/3240312479",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"[日] 夏目漱石"
+				"[英] 乔治·奥威尔"
 			],
 			"book_subtitle": "",
 			"buy_more_uri": "",
-			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
+			"card_subtitle": "[英] 乔治·奥威尔 / 2018 / 北京工艺美术出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.9684684684684685,
-					0.1491935483870968,
-					0.9725490196078431
+					0.005482456140350885,
+					0.9047619047619048,
+					0.6588235294117647
 				],
 				"_avg_color": [
-					0.9705882352941178,
-					0.0693877551020408,
-					0.9607843137254902
+					0.008090614886731387,
+					0.7304964539007092,
+					0.5529411764705883
 				],
-				"primary_color_light": "f2ced4",
-				"primary_color_dark": "f2ced4",
-				"secondary_color": "f9f4f5",
-				"is_dark": false
+				"primary_color_light": "a5140f",
+				"primary_color_dark": "7f0f0c",
+				"secondary_color": "f9f5f4",
+				"is_dark": true
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/30267412.jpg",
 			"has_ebook": true,
 			"honor_infos": [],
-			"id": "26954419",
-			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
+			"id": "30267412",
+			"intro": "《动物庄园》是一部政治寓言体小说，故事描述了一场”动物主义”的酝酿、兴起和很终蜕变。一个农庄的动物不堪人类主人的压迫，在猪的带领下起来反抗，赶走了农庄主，牲畜们实现了”当家作主”的愿望，农场更名为”动物庄园”，奉行”所有动物一律平等”。之后，两只处于领导地位的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸。此后，获取了领导权的猪拥有了越来越大的权力，成为新的特权阶级;动物们稍有不满，便会招致的清洗:农庄的理想被修正为”有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。",
 			"is_released": true,
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 96,
+			"other_versions_count": 167,
 			"pages": [
-				"480"
+				"186"
 			],
 			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s29812732.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s29812732.jpg"
 			},
 			"press": [
-				"中国友谊出版公司"
+				"北京工艺美术出版社"
 			],
 			"pubdate": [
-				"2017-5"
+				"2018-4-1"
 			],
 			"rating": {
-				"count": 904,
+				"count": 2527,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 4.5,
+				"value": 9.4
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
+			"sharing_url": "",
 			"subtype": "book",
-			"title": "我是猫",
+			"title": "动物庄园",
 			"type": "book",
-			"uri": "douban://douban.com/book/26954419",
-			"url": "https://book.douban.com/subject/26954419/",
+			"uri": "douban://douban.com/book/30267412",
+			"url": "https://book.douban.com/subject/30267412/",
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"vendor_original_price": "",
@@ -872,7 +871,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 229965,
+				"count": 229969,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -965,7 +964,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313192,
+				"count": 313197,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1253,6 +1252,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2021-08-15 21:58:03",
+		"id": 2999846993,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/30245411 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30245411/interest/2999846993",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[英] 夏洛蒂·勃朗特"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/30245411/vendors_douban",
+			"card_subtitle": "[英] 夏洛蒂·勃朗特 / 2018 / 上海文艺出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.5093240093240093,
+					0.7333333333333334,
+					0.7647058823529411
+				],
+				"_avg_color": [
+					0.5522875816993463,
+					0.326923076923077,
+					0.611764705882353
+				],
+				"primary_color_light": "2c9ea5",
+				"primary_color_dark": "217a7f",
+				"secondary_color": "f4f9f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/30245411.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "30245411",
+			"intro": "失去父母的女孩简，寄居亲戚家，受尽委屈。\n长大成人后，简到一所贵族庄园担任家庭教师，庄园主人罗切斯特却暗恋上她。在偶然得知罗切斯特是有妇之夫，而且还向她隐瞒了惊人真相后，简陷入了迷茫、挣扎、苦痛。\n她该何去何从？她的自我觉醒之路，能否让她最终找到真正的爱情和幸福？本书问世百年以来，简的爱情故事和心智成熟历程，感动了全球亿万读者，更启迪了千千万万的女性。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥46.8",
+			"null_rating_reason": "",
+			"other_versions_count": 318,
+			"pages": [
+				"656"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29797136.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29797136.jpg"
+			},
+			"press": [
+				"上海文艺出版社"
+			],
+			"pubdate": [
+				"2018-7"
+			],
+			"rating": {
+				"count": 1919,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30245411",
+			"subtype": "book",
+			"title": "简·爱",
+			"type": "book",
+			"uri": "douban://douban.com/book/30245411",
+			"url": "https://book.douban.com/subject/30245411/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2021-08-15 21:57:10",
 		"id": 2999845165,
 		"is_editable": false,
@@ -1402,7 +1487,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229600,
+				"count": 229599,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1495,7 +1580,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353766,
+				"count": 353767,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1672,7 +1757,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828223,
+				"count": 828232,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1766,7 +1851,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342341,
+				"count": 342346,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1857,7 +1942,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 476817,
+				"count": 476825,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1941,7 +2026,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243713,
+				"count": 243714,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2032,7 +2117,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554864,
+				"count": 554873,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2214,7 +2299,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784239,
+				"count": 784245,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2255,7 +2340,7 @@
 				"(苏)尼古拉·奥斯特洛夫斯基"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/27144044/vendors_douban",
+			"buy_more_uri": "",
 			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -2281,7 +2366,7 @@
 			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥21.6",
+			"min_sale_price": null,
 			"null_rating_reason": "",
 			"other_versions_count": 278,
 			"pages": [
@@ -2392,7 +2477,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18841,
+				"count": 18843,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2478,7 +2563,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296022,
+				"count": 296023,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2673,97 +2758,6 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 21:49:25",
-		"id": 2999829607,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/3211779 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3211779/interest/2999829607",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[日] 东野圭吾"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/3211779/vendors_douban",
-			"card_subtitle": "[日] 东野圭吾 / 2008 / 南海出版公司",
-			"color_scheme": {
-				"_base_color": [
-					0.5238095238095238,
-					0.2413793103448276,
-					0.22745098039215686
-				],
-				"_avg_color": [
-					0.5119047619047619,
-					0.21875,
-					0.25098039215686274
-				],
-				"primary_color_light": "576e72",
-				"primary_color_dark": "3a494c",
-				"secondary_color": "f4f9f9",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/3211779.jpg",
-			"has_ebook": false,
-			"honor_infos": [
-				{
-					"kind": "book",
-					"rank": 71,
-					"title": "豆瓣图书Top250",
-					"uri": "douban://douban.com/subject_collection/book_top250"
-				}
-			],
-			"id": "3211779",
-			"intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由他料理善后。石神设了一个匪夷所思的局，令警方始终只能在外围敲敲打打，根本无法与案子沾边。石神究竟使用了什么手法？",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥20.01",
-			"null_rating_reason": "",
-			"other_versions_count": 29,
-			"pages": [
-				"251"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s3254244.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s3254244.jpg"
-			},
-			"press": [
-				"南海出版公司"
-			],
-			"pubdate": [
-				"2008-9"
-			],
-			"rating": {
-				"count": 554864,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/3211779",
-			"subtype": "book",
-			"title": "嫌疑人X的献身",
-			"type": "book",
-			"uri": "douban://douban.com/book/3211779",
-			"url": "https://book.douban.com/subject/3211779/",
-			"vendor_icons": [],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
 		"create_time": "2021-08-15 21:49:16",
 		"id": 2999829323,
 		"is_editable": false,
@@ -2925,7 +2919,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784239,
+				"count": 784245,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3189,7 +3183,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18841,
+				"count": 18843,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3275,7 +3269,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296022,
+				"count": 296023,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
