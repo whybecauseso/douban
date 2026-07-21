@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66377,
+				"count": 66380,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -87,6 +87,90 @@
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2023-11-07 19:16:14",
+		"id": 3984865252,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/26639966 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26639966/interest/3984865252",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[日] 东野圭吾"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[日] 东野圭吾 / 2016 / 南海出版公司",
+			"color_scheme": {
+				"_base_color": [
+					0.07407407407407407,
+					0.3582089552238806,
+					0.788235294117647
+				],
+				"_avg_color": [
+					0.07971014492753621,
+					0.2875,
+					0.3137254901960784
+				],
+				"primary_color_light": "725b49",
+				"primary_color_dark": "4c3d31",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/26639966.jpg",
+			"has_ebook": false,
+			"honor_infos": [],
+			"id": "26639966",
+			"intro": "【新参者】新加入、刚到来的人。\n东京，日本桥。一个单身女人在公寓内被勒死。警方发现她最近刚搬到这里居住。\n负责调查的是也刚调到日本桥地区的刑警加贺。仙贝店、高级料亭、陶瓷器店、钟表店、民间艺术品店，加贺走访案发地附近一家家店铺。他的调查看上去琐碎又与案情无关：通勤轨迹不 同于往常的保险员、替老板给情人买人形烧的料亭小伙计、关系不睦的陶瓷器店婆媳、因女儿私奔而断绝父女关系的钟表店老板……\n案件真相就在充满人间烟火的家长里短中逐渐显露。\n================================================================\n这是一个靠逻辑破不了的案子，情才可以！\n一部让人读后热泪盈眶的推理小说\n在这本推理小说里，推理不是重点，而是要找出人们各种行为的原因；找到凶手也不是最终目的，而是要彻查案件的原因，否则就不能真正救赎。\n《周刊文春》推理榜年度第1名     “这本推理小说了不起！”年度第1名\n这是一部随着事件的解决，心灵不断得到温暖的作品。——新垣结衣",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 9,
+			"pages": [
+				"264"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s28363320.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s28363320.jpg"
+			},
+			"press": [
+				"南海出版公司"
+			],
+			"pubdate": [
+				"2016-1"
+			],
+			"rating": {
+				"count": 67429,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26639966",
+			"subtype": "book",
+			"title": "新参者",
+			"type": "book",
+			"uri": "douban://douban.com/book/26639966",
+			"url": "https://book.douban.com/subject/26639966/",
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -159,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34871,
+				"count": 34873,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -243,7 +327,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46631,
+				"count": 46632,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -334,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 96996,
+				"count": 96995,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -428,7 +512,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466183,
+				"count": 466199,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -522,7 +606,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 217911,
+				"count": 217922,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -787,7 +871,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230019,
+				"count": 230029,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -880,7 +964,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313275,
+				"count": 313283,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -973,7 +1057,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60594,
+				"count": 60596,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1059,7 +1143,7 @@
 				"2007-7"
 			],
 			"rating": {
-				"count": 3375,
+				"count": 3376,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1070,92 +1154,6 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/2161698",
 			"url": "https://book.douban.com/subject/2161698/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:59:35",
-		"id": 2999849978,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1841531 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1841531/interest/2999849978",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"笛福"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "笛福 / 1978 / 人民文学出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.17948717948717943,
-					0.11206896551724135,
-					0.4549019607843137
-				],
-				"_avg_color": [
-					0.16666666666666666,
-					0.11009174311926606,
-					0.42745098039215684
-				],
-				"primary_color_light": "717265",
-				"primary_color_dark": "4b4c43",
-				"secondary_color": "f9f9f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/1841531.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "1841531",
-			"intro": "",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 140,
-			"pages": [
-				"278"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s3581447.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s3581447.jpg"
-			},
-			"press": [
-				"人民文学出版社"
-			],
-			"pubdate": [
-				"1978-4"
-			],
-			"rating": {
-				"count": 3311,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.4
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1841531",
-			"subtype": "book",
-			"title": "鲁滨孙漂流记",
-			"type": "book",
-			"uri": "douban://douban.com/book/1841531",
-			"url": "https://book.douban.com/subject/1841531/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1512,92 +1510,6 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 21:56:39",
-		"id": 2999844157,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 2,
-			"value": 2
-		},
-		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/4011670 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4011670/interest/2999844157",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"太宰治"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
-			"color_scheme": {
-				"_base_color": [
-					0.9907407407407407,
-					0.6521739130434783,
-					0.5411764705882353
-				],
-				"_avg_color": [
-					0.9979423868312758,
-					0.45,
-					0.7058823529411765
-				],
-				"primary_color_light": "a5393f",
-				"primary_color_dark": "7f2c30",
-				"secondary_color": "f9f4f5",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/4011670.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "4011670",
-			"intro": "《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 68,
-			"pages": [
-				"168"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s6100756.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s6100756.jpg"
-			},
-			"press": [
-				"吉林出版集团"
-			],
-			"pubdate": [
-				"2009-9"
-			],
-			"rating": {
-				"count": 229623,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.2
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4011670",
-			"subtype": "book",
-			"title": "人间失格",
-			"type": "book",
-			"uri": "douban://douban.com/book/4011670",
-			"url": "https://book.douban.com/subject/4011670/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
 		"create_time": "2021-08-15 21:56:09",
 		"id": 2999843153,
 		"is_editable": false,
@@ -1668,7 +1580,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353775,
+				"count": 353773,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1754,7 +1666,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14821,
+				"count": 14823,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -1845,7 +1757,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828312,
+				"count": 828320,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1939,7 +1851,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342394,
+				"count": 342396,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2030,7 +1942,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 476956,
+				"count": 476975,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2114,7 +2026,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 243735,
+				"count": 243738,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2205,7 +2117,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 554967,
+				"count": 554979,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2296,7 +2208,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511492,
+				"count": 511493,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2387,7 +2299,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784279,
+				"count": 784285,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2399,6 +2311,92 @@
 			"uri": "douban://douban.com/book/25862578",
 			"url": "https://book.douban.com/subject/25862578/",
 			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:47:50",
+		"id": 2999826383,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"(苏)尼古拉·奥斯特洛夫斯基"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.075,
+					0.5555555555555556,
+					0.1411764705882353
+				],
+				"_avg_color": [
+					0.07407407407407385,
+					0.05921052631578945,
+					0.596078431372549
+				],
+				"primary_color_light": "a57349",
+				"primary_color_dark": "7f5838",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "27144044",
+			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 278,
+			"pages": [
+				"440"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
+			},
+			"press": [
+				"天津人民出版社"
+			],
+			"pubdate": [
+				"2017-9"
+			],
+			"rating": {
+				"count": 3941,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
+			"subtype": "book",
+			"title": "钢铁是怎样炼成的",
+			"type": "book",
+			"uri": "douban://douban.com/book/27144044",
+			"url": "https://book.douban.com/subject/27144044/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2651,7 +2649,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317703,
+				"count": 317704,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2830,7 +2828,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511492,
+				"count": 511493,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2921,7 +2919,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784279,
+				"count": 784285,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3357,7 +3355,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317703,
+				"count": 317704,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
