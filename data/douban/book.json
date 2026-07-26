@@ -72,7 +72,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66484,
+				"count": 66491,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -159,7 +159,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 67471,
+				"count": 67472,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -243,7 +243,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 34902,
+				"count": 34904,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -418,7 +418,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97035,
+				"count": 97037,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -512,7 +512,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466402,
+				"count": 466411,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -606,7 +606,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 218051,
+				"count": 218055,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -715,6 +715,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2022-02-15 21:29:30",
+		"id": 3240312479,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30267412/interest/3240312479",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[英] 乔治·奥威尔"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[英] 乔治·奥威尔 / 2018 / 北京工艺美术出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.005482456140350885,
+					0.9047619047619048,
+					0.6588235294117647
+				],
+				"_avg_color": [
+					0.008090614886731387,
+					0.7304964539007092,
+					0.5529411764705883
+				],
+				"primary_color_light": "a5140f",
+				"primary_color_dark": "7f0f0c",
+				"secondary_color": "f9f5f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/30267412.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "30267412",
+			"intro": "《动物庄园》是一部政治寓言体小说，故事描述了一场”动物主义”的酝酿、兴起和很终蜕变。一个农庄的动物不堪人类主人的压迫，在猪的带领下起来反抗，赶走了农庄主，牲畜们实现了”当家作主”的愿望，农场更名为”动物庄园”，奉行”所有动物一律平等”。之后，两只处于领导地位的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸。此后，获取了领导权的猪拥有了越来越大的权力，成为新的特权阶级;动物们稍有不满，便会招致的清洗:农庄的理想被修正为”有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 167,
+			"pages": [
+				"186"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s29812732.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s29812732.jpg"
+			},
+			"press": [
+				"北京工艺美术出版社"
+			],
+			"pubdate": [
+				"2018-4-1"
+			],
+			"rating": {
+				"count": 2529,
+				"max": 10,
+				"star_count": 5,
+				"value": 9.5
+			},
+			"sharing_url": "",
+			"subtype": "book",
+			"title": "动物庄园",
+			"type": "book",
+			"uri": "douban://douban.com/book/30267412",
+			"url": "https://book.douban.com/subject/30267412/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2022-01-25 11:56:13",
 		"id": 2999832710,
 		"is_editable": false,
@@ -785,7 +871,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230119,
+				"count": 230123,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -878,7 +964,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313417,
+				"count": 313421,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -971,7 +1057,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60615,
+				"count": 60618,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1068,6 +1154,92 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/1083611",
 			"url": "https://book.douban.com/subject/1083611/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 22:00:13",
+		"id": 2999851256,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/2161698 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2161698/interest/2999851256",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[法]儒勒·凡尔纳"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[法]儒勒·凡尔纳 / 2007 / 上海译文出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.05649717514124292,
+					0.23886639676113355,
+					0.9686274509803922
+				],
+				"_avg_color": [
+					0.051912568306010966,
+					0.24696356275303646,
+					0.9686274509803922
+				],
+				"primary_color_light": "f2cbb8",
+				"primary_color_dark": "f2cbb8",
+				"secondary_color": "f9f6f4",
+				"is_dark": false
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/2161698.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "2161698",
+			"intro": "儒勒·凡尔纳（1828-1905），法国著名科幻小说家，“科幻小说之父”。《八十天环游地球》是他的重要小说之一。\n福格和改良俱乐部的会友以二万英镑为赌注，打赌可以在八十天里环游地球一周。随后他带着绰号叫“路路通”的仆人，从伦敦出发，开始了不可思议的环球旅行；最终历经天灾人祸，在没有飞机、远洋巨轮的十九世纪，竟然完成了这一天方夜谭般的绕地球一周，不仅赢得了打赌，而且获得了爱情。\n本书寓科学知识、创造力、艺术和趣味于一体，在全世界拥有广泛的读者。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 252,
+			"pages": [
+				"213"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s2652476.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s2652476.jpg"
+			},
+			"press": [
+				"上海译文出版社"
+			],
+			"pubdate": [
+				"2007-7"
+			],
+			"rating": {
+				"count": 3375,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2161698",
+			"subtype": "book",
+			"title": "八十天环游地球",
+			"type": "book",
+			"uri": "douban://douban.com/book/2161698",
+			"url": "https://book.douban.com/subject/2161698/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1229,7 +1401,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6364,
+				"count": 6365,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1240,92 +1412,6 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/4872916",
 			"url": "https://book.douban.com/subject/4872916/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:57:10",
-		"id": 2999845165,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1142578 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1142578/interest/2999845165",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"马克・吐温"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/1142578/vendors_douban",
-			"card_subtitle": "马克・吐温 / 2003 / 二十一世纪出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.15679012345679014,
-					0.627906976744186,
-					0.8431372549019608
-				],
-				"_avg_color": [
-					0.157103825136612,
-					0.5727699530516432,
-					0.8352941176470589
-				],
-				"primary_color_light": "a59f3d",
-				"primary_color_dark": "7f7a2f",
-				"secondary_color": "f9f9f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/1142578.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "1142578",
-			"intro": "故事发生在南北战争前美国南方一个叫圣彼得堡的小镇上。汤姆·索亚生性顽皮，厌恶教会学校里枯燥无味的生活。他和野孩子哈克一道搞了很多恶作剧，甚至离家出走，结伴逃到荒岛上，幻想着能过上传说中的海盗和绿林好汉的冒险生活。一个夜晚，他约哈克到坟场玩耍，目睹乔埃杀人案，经过激烈的思想头斗争，最终挺身而出作证，揭露了乔埃的罪恶，成为孩子们钦佩的小英雄。乔埃企图杀害汤姆，结果反而困死在山洞里。汤姆和哈克发现了一大堆海盗埋藏的金币，两人因此都成了富翁。　　本小说发表于1876年，对美国社会和宗教的嘲讽已经超出儿童读物的范畴。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥11.34",
-			"null_rating_reason": "",
-			"other_versions_count": 252,
-			"pages": [
-				"204"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s1158254.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s1158254.jpg"
-			},
-			"press": [
-				"二十一世纪出版社"
-			],
-			"pubdate": [
-				"2003-10-1"
-			],
-			"rating": {
-				"count": 4882,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.4
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1142578",
-			"subtype": "book",
-			"title": "汤姆索亚历险记",
-			"type": "book",
-			"uri": "douban://douban.com/book/1142578",
-			"url": "https://book.douban.com/subject/1142578/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1358,7 +1444,7 @@
 				"太宰治"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4011670/vendors_douban",
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
 			"color_scheme": {
 				"_base_color": [
@@ -1384,7 +1470,7 @@
 			"intro": "《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥12.06",
 			"null_rating_reason": "",
 			"other_versions_count": 68,
 			"pages": [
@@ -1401,7 +1487,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229657,
+				"count": 229658,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1580,7 +1666,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14835,
+				"count": 14837,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -1671,7 +1757,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828443,
+				"count": 828449,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1765,7 +1851,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342463,
+				"count": 342465,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1856,7 +1942,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 477192,
+				"count": 477200,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2031,7 +2117,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 555136,
+				"count": 555146,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2122,7 +2208,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511502,
+				"count": 511501,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2213,7 +2299,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784353,
+				"count": 784354,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2320,92 +2406,6 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 21:47:50",
-		"id": 2999826383,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"(苏)尼古拉·奥斯特洛夫斯基"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.075,
-					0.5555555555555556,
-					0.1411764705882353
-				],
-				"_avg_color": [
-					0.07407407407407385,
-					0.05921052631578945,
-					0.596078431372549
-				],
-				"primary_color_light": "a57349",
-				"primary_color_dark": "7f5838",
-				"secondary_color": "f9f7f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "27144044",
-			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 278,
-			"pages": [
-				"440"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
-			},
-			"press": [
-				"天津人民出版社"
-			],
-			"pubdate": [
-				"2017-9"
-			],
-			"rating": {
-				"count": 3941,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.4
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
-			"subtype": "book",
-			"title": "钢铁是怎样炼成的",
-			"type": "book",
-			"uri": "douban://douban.com/book/27144044",
-			"url": "https://book.douban.com/subject/27144044/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
 		"create_time": "2021-08-15 21:47:22",
 		"id": 2999825412,
 		"is_editable": false,
@@ -2477,7 +2477,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18865,
+				"count": 18868,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2563,7 +2563,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296135,
+				"count": 296137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2649,7 +2649,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317783,
+				"count": 317787,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2735,7 +2735,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516834,
+				"count": 516837,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2828,7 +2828,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511502,
+				"count": 511501,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2919,7 +2919,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 784353,
+				"count": 784354,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3089,7 +3089,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3941,
+				"count": 3942,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3183,7 +3183,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18865,
+				"count": 18868,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3269,7 +3269,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296135,
+				"count": 296137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3355,7 +3355,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317783,
+				"count": 317787,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3441,7 +3441,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516834,
+				"count": 516837,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
