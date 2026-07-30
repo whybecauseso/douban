@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 35458,
+				"count": 35464,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 537525,
+				"count": 537563,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -168,100 +168,6 @@
 			"uri": "douban://douban.com/book/10554308",
 			"url": "https://book.douban.com/subject/10554308/",
 			"vendor_icons": [],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "神",
-		"create_time": "2023-11-12 16:03:34",
-		"id": 3989167060,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ 神 https://www.douban.com/doubanapp/dispatch/book/35587028 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35587028/interest/3989167060",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"莫言"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/35587028/vendors_douban",
-			"card_subtitle": "莫言 / 2021 / 浙江文艺出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.06046511627906975,
-					0.8739837398373984,
-					0.9647058823529412
-				],
-				"_avg_color": [
-					0.05140186915887851,
-					0.6045197740112994,
-					0.6941176470588235
-				],
-				"primary_color_light": "a54914",
-				"primary_color_dark": "7f3810",
-				"secondary_color": "f9f6f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/35587028.jpg",
-			"has_ebook": true,
-			"honor_infos": [
-				{
-					"kind": "book",
-					"rank": 172,
-					"title": "豆瓣图书Top250",
-					"uri": "douban://douban.com/subject_collection/book_top250"
-				}
-			],
-			"id": "35587028",
-			"intro": "五十年间西门闹经历六次转世，\n一世为驴，二世为牛，三世为猪，四世为狗，五世为猴，最终降生为人。\n在这六世里，他目睹蓝脸一家三代经历人生的生死疲劳，\n他们爱就爱到底，恨就恨到底，犟就犟到底，干就干到底，\n有极致的痛苦，也有彻底的放纵。\n而他们的故事，要从1950年1月1日讲起……",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥34.0",
-			"null_rating_reason": "",
-			"other_versions_count": 28,
-			"pages": [
-				"584"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s35289336.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s35289336.jpg"
-			},
-			"press": [
-				"浙江文艺出版社"
-			],
-			"pubdate": [
-				"2021-11"
-			],
-			"rating": {
-				"count": 66613,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35587028",
-			"subtype": "book",
-			"title": "生死疲劳",
-			"type": "book",
-			"uri": "douban://douban.com/book/35587028",
-			"url": "https://book.douban.com/subject/35587028/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -319,7 +225,7 @@
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 9,
+			"other_versions_count": 10,
 			"pages": [
 				"264"
 			],
@@ -334,7 +240,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 68115,
+				"count": 68129,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +324,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35021,
+				"count": 35030,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -593,7 +499,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97087,
+				"count": 97089,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -687,7 +593,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466640,
+				"count": 466649,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -781,7 +687,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 218218,
+				"count": 218223,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -867,7 +773,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10434,
+				"count": 10436,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -879,179 +785,6 @@
 			"uri": "douban://douban.com/book/25886226",
 			"url": "https://book.douban.com/subject/25886226/",
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2022-02-15 21:29:30",
-		"id": 3240312479,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30267412/interest/3240312479",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[英] 乔治·奥威尔"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "[英] 乔治·奥威尔 / 2018 / 北京工艺美术出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.005482456140350885,
-					0.9047619047619048,
-					0.6588235294117647
-				],
-				"_avg_color": [
-					0.008090614886731387,
-					0.7304964539007092,
-					0.5529411764705883
-				],
-				"primary_color_light": "a5140f",
-				"primary_color_dark": "7f0f0c",
-				"secondary_color": "f9f5f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/30267412.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "30267412",
-			"intro": "《动物庄园》是一部政治寓言体小说，故事描述了一场”动物主义”的酝酿、兴起和很终蜕变。一个农庄的动物不堪人类主人的压迫，在猪的带领下起来反抗，赶走了农庄主，牲畜们实现了”当家作主”的愿望，农场更名为”动物庄园”，奉行”所有动物一律平等”。之后，两只处于领导地位的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸。此后，获取了领导权的猪拥有了越来越大的权力，成为新的特权阶级;动物们稍有不满，便会招致的清洗:农庄的理想被修正为”有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 167,
-			"pages": [
-				"186"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29812732.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29812732.jpg"
-			},
-			"press": [
-				"北京工艺美术出版社"
-			],
-			"pubdate": [
-				"2018-4-1"
-			],
-			"rating": {
-				"count": 2529,
-				"max": 10,
-				"star_count": 5,
-				"value": 9.5
-			},
-			"sharing_url": "",
-			"subtype": "book",
-			"title": "动物庄园",
-			"type": "book",
-			"uri": "douban://douban.com/book/30267412",
-			"url": "https://book.douban.com/subject/30267412/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2022-02-15 21:26:01",
-		"id": 3240307853,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[日] 夏目漱石"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
-			"color_scheme": {
-				"_base_color": [
-					0.9684684684684685,
-					0.1491935483870968,
-					0.9725490196078431
-				],
-				"_avg_color": [
-					0.9705882352941178,
-					0.0693877551020408,
-					0.9607843137254902
-				],
-				"primary_color_light": "f2ced4",
-				"primary_color_dark": "f2ced4",
-				"secondary_color": "f9f4f5",
-				"is_dark": false
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "26954419",
-			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 96,
-			"pages": [
-				"480"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
-			},
-			"press": [
-				"中国友谊出版公司"
-			],
-			"pubdate": [
-				"2017-5"
-			],
-			"rating": {
-				"count": 906,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.5
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
-			"subtype": "book",
-			"title": "我是猫",
-			"type": "book",
-			"uri": "douban://douban.com/book/26954419",
-			"url": "https://book.douban.com/subject/26954419/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"vendor_original_price": "",
@@ -1133,7 +866,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230232,
+				"count": 230235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1312,7 +1045,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313561,
+				"count": 313568,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1428,8 +1161,8 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 22:00:53",
-		"id": 2999852660,
+		"create_time": "2021-08-15 22:00:13",
+		"id": 2999851256,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
@@ -1439,69 +1172,69 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1083611 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1083611/interest/2999852660",
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/2161698 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2161698/interest/2999851256",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"勒内・格鲁塞"
+				"[法]儒勒·凡尔纳"
 			],
 			"book_subtitle": "",
 			"buy_more_uri": "",
-			"card_subtitle": "勒内・格鲁塞 / 2004 / 国际文化出版公司",
+			"card_subtitle": "[法]儒勒·凡尔纳 / 2007 / 上海译文出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.10869565217391304,
-					0.09543568464730293,
-					0.9450980392156862
+					0.05649717514124292,
+					0.23886639676113355,
+					0.9686274509803922
 				],
 				"_avg_color": [
-					0.06060606060606059,
-					0.10000000000000002,
-					0.8627450980392157
+					0.051912568306010966,
+					0.24696356275303646,
+					0.9686274509803922
 				],
-				"primary_color_light": "a5a095",
-				"primary_color_dark": "7f7b73",
-				"secondary_color": "f9f8f4",
-				"is_dark": true
+				"primary_color_light": "f2cbb8",
+				"primary_color_dark": "f2cbb8",
+				"secondary_color": "f9f6f4",
+				"is_dark": false
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/1083611.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/2161698.jpg",
 			"has_ebook": true,
 			"honor_infos": [],
-			"id": "1083611",
-			"intro": "《草原帝国》是世界史学界公认的关于欧亚大陆游牧民族三千年历史的经典史著，由著名东方史学家勒内•格鲁塞创作。《草原帝国》中描绘了三千年来大草原上上演的一幕幕气势恢宏的历史剧：斯基泰、匈奴、突厥、蒙古这些马背上的民族建立的草原帝国风起云散；阿提拉、成吉思汗、贴木儿这些“上帝之鞭”掀起横贯欧亚的历史狂飙。作者以开阔的历史观为读者梳理出这些赫赫有名的游牧民族背后共通的历史脉络，并书写了草原帝国波澜壮阔、荡气回肠的历史画卷。\n\n《草原帝国》读者对象：对成吉思汗、阿提拉、帖木儿感兴趣的读者，对欧亚大陆（蒙古草原）历史感兴趣的读者。",
+			"id": "2161698",
+			"intro": "儒勒·凡尔纳（1828-1905），法国著名科幻小说家，“科幻小说之父”。《八十天环游地球》是他的重要小说之一。\n福格和改良俱乐部的会友以二万英镑为赌注，打赌可以在八十天里环游地球一周。随后他带着绰号叫“路路通”的仆人，从伦敦出发，开始了不可思议的环球旅行；最终历经天灾人祸，在没有飞机、远洋巨轮的十九世纪，竟然完成了这一天方夜谭般的绕地球一周，不仅赢得了打赌，而且获得了爱情。\n本书寓科学知识、创造力、艺术和趣味于一体，在全世界拥有广泛的读者。",
 			"is_released": true,
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 19,
+			"other_versions_count": 252,
 			"pages": [
-				"376"
+				"213"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s29799305.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s29799305.jpg"
+				"large": "https://img9.doubanio.com/view/subject/l/public/s2652476.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s2652476.jpg"
 			},
 			"press": [
-				"国际文化出版公司"
+				"上海译文出版社"
 			],
 			"pubdate": [
-				"2004-6-1"
+				"2007-7"
 			],
 			"rating": {
-				"count": 138,
+				"count": 3375,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8.2
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1083611",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2161698",
 			"subtype": "book",
-			"title": "草原帝国",
+			"title": "八十天环游地球",
 			"type": "book",
-			"uri": "douban://douban.com/book/1083611",
-			"url": "https://book.douban.com/subject/1083611/",
+			"uri": "douban://douban.com/book/2161698",
+			"url": "https://book.douban.com/subject/2161698/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1734,7 +1467,7 @@
 			"is_show": false,
 			"min_sale_price": "¥46.8",
 			"null_rating_reason": "",
-			"other_versions_count": 375,
+			"other_versions_count": 376,
 			"pages": [
 				"656"
 			],
@@ -1921,7 +1654,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229687,
+				"count": 229690,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2014,7 +1747,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353812,
+				"count": 353815,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2100,7 +1833,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14858,
+				"count": 14863,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2191,7 +1924,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828597,
+				"count": 828609,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2285,7 +2018,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342546,
+				"count": 342548,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2376,7 +2109,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 477454,
+				"count": 477466,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2417,7 +2150,7 @@
 				"[日] 东野圭吾"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3646172/vendors_douban",
 			"card_subtitle": "[日] 东野圭吾 / 2009 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -2443,7 +2176,7 @@
 			"intro": "畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。\n他当真是罪犯？他究竟为何杀人？\n在彻查被害人与凶手的过去之后，警官面对案情、手法均平淡无奇的事实，却感到如坠万丈深渊般无边的寒意……\n作为一部手记体杰作，《恶意》多年来在票选中始终名列前茅，同时被评论界和众多读者视为东野圭吾的巅峰之作，与《白夜行》同享光辉与荣耀：环环相扣的侦破进展百转千回，将手记体叙事的无限可能发挥得淋漓尽致；对复杂人性抽丝剥茧的深刻描画，令人眼花缭乱、哑口无言。\n更引人注目的，是《恶意》与《白夜行》恰似两生花，《白夜行》中的爱情极度炽烈，令人粉身碎骨；《恶意》中的怨恨则无比深沉，令人万劫不复。人性的两极就这样奇异地直击人心。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥38.16",
 			"null_rating_reason": "",
 			"other_versions_count": 22,
 			"pages": [
@@ -2460,7 +2193,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 244932,
+				"count": 244936,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2551,7 +2284,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 556652,
+				"count": 556677,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2642,7 +2375,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511538,
+				"count": 511539,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2733,7 +2466,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 785676,
+				"count": 785698,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2903,7 +2636,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3942,
+				"count": 3943,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -2997,7 +2730,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18882,
+				"count": 18883,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3083,7 +2816,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296206,
+				"count": 296210,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3169,7 +2902,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317872,
+				"count": 317875,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3255,7 +2988,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516966,
+				"count": 516973,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3266,6 +2999,269 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/2567698",
 			"url": "https://book.douban.com/subject/2567698/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:48:38",
+		"id": 2999828026,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/25862578 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25862578/interest/2999828026",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[日] 东野圭吾"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/25862578/vendors_douban",
+			"card_subtitle": "[日] 东野圭吾 / 2014 / 南海出版公司",
+			"color_scheme": {
+				"_base_color": [
+					0.5366666666666666,
+					0.4854368932038835,
+					0.403921568627451
+				],
+				"_avg_color": [
+					0.4313725490196078,
+					0.18681318681318676,
+					0.3568627450980392
+				],
+				"primary_color_light": "3b6672",
+				"primary_color_dark": "27444c",
+				"secondary_color": "f4f8f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/25862578.jpg",
+			"has_ebook": false,
+			"honor_infos": [
+				{
+					"kind": "book",
+					"rank": 1,
+					"title": "2024大陆首版十周年图书",
+					"uri": "douban://douban.com/subject_collection/ECLU7MQ4Y?type=rank&category=book&rank_type=year"
+				}
+			],
+			"id": "25862578",
+			"intro": "现代人内心流失的东西，这家杂货店能帮你找回——\n僻静的街道旁有一家杂货店，只要写下烦恼投进卷帘门的投信口，第二天就会在店后的牛奶箱里得到回答。\n因男友身患绝症，年轻女孩静子在爱情与梦想间徘徊；克郎为了音乐梦想离家漂泊，却在现实中寸步难行；少年浩介面临家庭巨变，挣扎在亲情与未来的迷茫中……\n他们将困惑写成信投进杂货店，随即奇妙的事情竟不断发生。\n生命中的一次偶然交会，将如何演绎出截然不同的人生？\n如今回顾写作过程，我发现自己始终在思考一个问题：站在人生的岔路口，人究竟应该怎么做？我希望读者能在掩卷时喃喃自语：我从未读过这样的小说。——东野圭吾",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥45.0",
+			"null_rating_reason": "",
+			"other_versions_count": 12,
+			"pages": [
+				"291"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s27264181.jpg",
+				"normal": "https://img2.doubanio.com/view/subject/m/public/s27264181.jpg"
+			},
+			"press": [
+				"南海出版公司"
+			],
+			"pubdate": [
+				"2014-5"
+			],
+			"rating": {
+				"count": 785698,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.5
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25862578",
+			"subtype": "book",
+			"title": "解忧杂货店",
+			"type": "book",
+			"uri": "douban://douban.com/book/25862578",
+			"url": "https://book.douban.com/subject/25862578/",
+			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:48:12",
+		"id": 2999827100,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1001309 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1001309/interest/2999827100",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[法] 埃克多·马洛"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/1001309/vendors_douban",
+			"card_subtitle": "[法] 埃克多·马洛 / 1998 / 人民文学出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.49404761904761907,
+					0.2692307692307692,
+					0.40784313725490196
+				],
+				"_avg_color": [
+					0.45999999999999996,
+					0.2118644067796611,
+					0.4627450980392157
+				],
+				"primary_color_light": "537271",
+				"primary_color_dark": "374c4b",
+				"secondary_color": "f4f9f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/1001309.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "1001309",
+			"intro": "雷米被养父租给了一个卖艺人，从此开始了他作为流浪小艺人浪迹天涯的生活。在流浪途中，他经历了很多苦难，但他始终抱着坚定的信念，凭着顽强、坚韧的意志克服了种种磨难，终于找到了亲人、朋友，过上了幸福的生活。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥26.07",
+			"null_rating_reason": "",
+			"other_versions_count": 16,
+			"pages": [
+				"706"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s1236649.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s1236649.jpg"
+			},
+			"press": [
+				"人民文学出版社"
+			],
+			"pubdate": [
+				"1998-5"
+			],
+			"rating": {
+				"count": 2227,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1001309",
+			"subtype": "book",
+			"title": "苦儿流浪记",
+			"type": "book",
+			"uri": "douban://douban.com/book/1001309",
+			"url": "https://book.douban.com/subject/1001309/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:47:50",
+		"id": 2999826383,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"(苏)尼古拉·奥斯特洛夫斯基"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/27144044/vendors_douban",
+			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.075,
+					0.5555555555555556,
+					0.1411764705882353
+				],
+				"_avg_color": [
+					0.07407407407407385,
+					0.05921052631578945,
+					0.596078431372549
+				],
+				"primary_color_light": "a57349",
+				"primary_color_dark": "7f5838",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "27144044",
+			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥21.6",
+			"null_rating_reason": "",
+			"other_versions_count": 278,
+			"pages": [
+				"440"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
+			},
+			"press": [
+				"天津人民出版社"
+			],
+			"pubdate": [
+				"2017-9"
+			],
+			"rating": {
+				"count": 3943,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
+			"subtype": "book",
+			"title": "钢铁是怎样炼成的",
+			"type": "book",
+			"uri": "douban://douban.com/book/27144044",
+			"url": "https://book.douban.com/subject/27144044/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -3349,7 +3345,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18882,
+				"count": 18883,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3435,7 +3431,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296206,
+				"count": 296210,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3521,7 +3517,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317872,
+				"count": 317875,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3607,7 +3603,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 516966,
+				"count": 516973,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
