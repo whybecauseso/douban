@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 35506,
+				"count": 35507,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 537810,
+				"count": 537829,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66654,
+				"count": 66658,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 68203,
+				"count": 68207,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35068,
+				"count": 35070,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97103,
+				"count": 97104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466720,
+				"count": 466726,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 218274,
+				"count": 218277,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230259,
+				"count": 230260,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313607,
+				"count": 313610,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1453,7 +1453,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/10738023.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60653,
+				"count": 60654,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1494,7 +1494,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/10738023",
 			"url": "https://book.douban.com/subject/10738023/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -1825,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6374,
+				"count": 6375,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2346,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353822,
+				"count": 353824,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2523,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828650,
+				"count": 828651,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2617,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342573,
+				"count": 342574,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2708,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 477540,
+				"count": 477554,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2792,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245022,
+				"count": 245025,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2883,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 556837,
+				"count": 556845,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3065,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 785820,
+				"count": 785826,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3329,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18888,
+				"count": 18889,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3415,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296231,
+				"count": 296236,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3484,7 +3486,7 @@
 			"intro": "三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的\n“黑暗森林”究竟意味着什么？",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥16.0",
+			"min_sale_price": "¥16.5",
 			"null_rating_reason": "",
 			"other_versions_count": 40,
 			"pages": [
@@ -3501,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317903,
+				"count": 317909,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3587,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517007,
+				"count": 517015,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
