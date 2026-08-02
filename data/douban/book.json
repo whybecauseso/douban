@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 35538,
+				"count": 35545,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 537997,
+				"count": 538028,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66688,
+				"count": 66692,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 68266,
+				"count": 68277,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97113,
+				"count": 97116,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -687,7 +687,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466797,
+				"count": 466806,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -781,7 +781,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 218312,
+				"count": 218319,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -804,8 +804,8 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2022-04-19 15:37:46",
-		"id": 3321736618,
+		"create_time": "2022-02-15 21:29:30",
+		"id": 3240312479,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
@@ -815,157 +815,70 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/25886226 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25886226/interest/3321736618",
+		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30267412/interest/3240312479",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"[法] 雨果"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/25886226/vendors_douban",
-			"card_subtitle": "[法] 雨果 / 2015 / 人民文学出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.952991452991453,
-					0.5531914893617021,
-					0.5529411764705883
-				],
-				"_avg_color": [
-					0.9570707070707071,
-					0.41509433962264153,
-					0.6235294117647059
-				],
-				"primary_color_light": "a54a63",
-				"primary_color_dark": "7f384c",
-				"secondary_color": "f9f4f6",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/25886226.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "25886226",
-			"intro": "《巴黎圣母院》艺术地再现了四百多年前法王路易十一统治时期的历史真实，宫廷与教会如何狼狈为奸压迫人民群众，人民群众怎样同两股势力英勇斗争。本书以1482年的法国为背景，以吉普赛姑娘爱丝美拉达与年轻英俊的卫队长，道貌岸然的副主教以及畸形、丑陋的敲钟人之间的关系为主线，热情呕歌了吉普赛姑娘与敲钟人高尚的品格，深刻鞭挞了卫队长与副主教的虚伪与卑下。小说体现了雨果的“美丑对照”的艺术表现原则，它的发表，打破了伪古典主义的桎梏，标志着浪漫主义的彻底胜利。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥17.6",
-			"null_rating_reason": "",
-			"other_versions_count": 275,
-			"pages": [
-				"457"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s32293440.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s32293440.jpg"
-			},
-			"press": [
-				"人民文学出版社"
-			],
-			"pubdate": [
-				"2015-1"
-			],
-			"rating": {
-				"count": 10440,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25886226",
-			"subtype": "book",
-			"title": "巴黎圣母院",
-			"type": "book",
-			"uri": "douban://douban.com/book/25886226",
-			"url": "https://book.douban.com/subject/25886226/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2022-02-15 21:26:01",
-		"id": 3240307853,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[日] 夏目漱石"
+				"[英] 乔治·奥威尔"
 			],
 			"book_subtitle": "",
 			"buy_more_uri": "",
-			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
+			"card_subtitle": "[英] 乔治·奥威尔 / 2018 / 北京工艺美术出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.9684684684684685,
-					0.1491935483870968,
-					0.9725490196078431
+					0.005482456140350885,
+					0.9047619047619048,
+					0.6588235294117647
 				],
 				"_avg_color": [
-					0.9705882352941178,
-					0.0693877551020408,
-					0.9607843137254902
+					0.008090614886731387,
+					0.7304964539007092,
+					0.5529411764705883
 				],
-				"primary_color_light": "f2ced4",
-				"primary_color_dark": "f2ced4",
-				"secondary_color": "f9f4f5",
-				"is_dark": false
+				"primary_color_light": "a5140f",
+				"primary_color_dark": "7f0f0c",
+				"secondary_color": "f9f5f4",
+				"is_dark": true
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/30267412.jpg",
 			"has_ebook": true,
 			"honor_infos": [],
-			"id": "26954419",
-			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
+			"id": "30267412",
+			"intro": "《动物庄园》是一部政治寓言体小说，故事描述了一场”动物主义”的酝酿、兴起和很终蜕变。一个农庄的动物不堪人类主人的压迫，在猪的带领下起来反抗，赶走了农庄主，牲畜们实现了”当家作主”的愿望，农场更名为”动物庄园”，奉行”所有动物一律平等”。之后，两只处于领导地位的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸。此后，获取了领导权的猪拥有了越来越大的权力，成为新的特权阶级;动物们稍有不满，便会招致的清洗:农庄的理想被修正为”有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。",
 			"is_released": true,
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 96,
+			"other_versions_count": 167,
 			"pages": [
-				"480"
+				"186"
 			],
 			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s29812732.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s29812732.jpg"
 			},
 			"press": [
-				"中国友谊出版公司"
+				"北京工艺美术出版社"
 			],
 			"pubdate": [
-				"2017-5"
+				"2018-4-1"
 			],
 			"rating": {
-				"count": 906,
+				"count": 2529,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 5,
+				"value": 9.5
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
+			"sharing_url": "",
 			"subtype": "book",
-			"title": "我是猫",
+			"title": "动物庄园",
 			"type": "book",
-			"uri": "douban://douban.com/book/26954419",
-			"url": "https://book.douban.com/subject/26954419/",
+			"uri": "douban://douban.com/book/30267412",
+			"url": "https://book.douban.com/subject/30267412/",
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"vendor_original_price": "",
@@ -1047,7 +960,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230286,
+				"count": 230291,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1140,7 +1053,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313639,
+				"count": 313643,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1256,92 +1169,6 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 22:00:13",
-		"id": 2999851256,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/2161698 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2161698/interest/2999851256",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[法]儒勒·凡尔纳"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "[法]儒勒·凡尔纳 / 2007 / 上海译文出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.05649717514124292,
-					0.23886639676113355,
-					0.9686274509803922
-				],
-				"_avg_color": [
-					0.051912568306010966,
-					0.24696356275303646,
-					0.9686274509803922
-				],
-				"primary_color_light": "f2cbb8",
-				"primary_color_dark": "f2cbb8",
-				"secondary_color": "f9f6f4",
-				"is_dark": false
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/2161698.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "2161698",
-			"intro": "儒勒·凡尔纳（1828-1905），法国著名科幻小说家，“科幻小说之父”。《八十天环游地球》是他的重要小说之一。\n福格和改良俱乐部的会友以二万英镑为赌注，打赌可以在八十天里环游地球一周。随后他带着绰号叫“路路通”的仆人，从伦敦出发，开始了不可思议的环球旅行；最终历经天灾人祸，在没有飞机、远洋巨轮的十九世纪，竟然完成了这一天方夜谭般的绕地球一周，不仅赢得了打赌，而且获得了爱情。\n本书寓科学知识、创造力、艺术和趣味于一体，在全世界拥有广泛的读者。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 252,
-			"pages": [
-				"213"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s2652476.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s2652476.jpg"
-			},
-			"press": [
-				"上海译文出版社"
-			],
-			"pubdate": [
-				"2007-7"
-			],
-			"rating": {
-				"count": 3375,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.2
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/2161698",
-			"subtype": "book",
-			"title": "八十天环游地球",
-			"type": "book",
-			"uri": "douban://douban.com/book/2161698",
-			"url": "https://book.douban.com/subject/2161698/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
 		"create_time": "2021-08-15 21:59:35",
 		"id": 2999849978,
 		"is_editable": false,
@@ -1416,92 +1243,6 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/1841531",
 			"url": "https://book.douban.com/subject/1841531/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2021-08-15 21:59:17",
-		"id": 2999849412,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/4872916 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4872916/interest/2999849412",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"乔纳森•斯威夫特 (Jonathan Swift)"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "乔纳森•斯威夫特 (Jonathan Swift) / 2010 / 译林出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.59,
-					0.6944444444444444,
-					0.5647058823529412
-				],
-				"_avg_color": [
-					0.5893719806763285,
-					0.5036496350364963,
-					0.5372549019607843
-				],
-				"primary_color_light": "3267a5",
-				"primary_color_dark": "264f7f",
-				"secondary_color": "f4f7f9",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/4872916.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "4872916",
-			"intro": "《格列佛游记》是一部融讽刺和冒险于一体的小说，在这些作者虚构的国度中，有着18世纪英国社会的浓重痕迹。作者通过主人公途经不同国度的游历，揭示了当时英国社会的种种矛盾，并对英国的政治制度作了辛辣的讽刺。    因为在一次海上航行中遭遇风暴，外科医生格列佛意外闯入一个陌生的地方，不可思议的冒险从此开始了：在小人国遭遇战争，成功退敌后成为万人崇拜的大英雄；在大人国被当作玩偶，冒险出逃九死一生；在飞岛国，黑自颠倒、是非混淆的怪现象让人哭笑不得……充满奇思妙想的故事，让人快乐大笑的同时又引人思考。而对现实生活的关注和暗讽，也为本书赢得极高荣誉，使其成为英国讽刺小说的代表作之一。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 329,
-			"pages": [
-				"235"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s4511507.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s4511507.jpg"
-			},
-			"press": [
-				"译林出版社"
-			],
-			"pubdate": [
-				"2010-6-1"
-			],
-			"rating": {
-				"count": 6375,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.1
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4872916",
-			"subtype": "book",
-			"title": "格列佛游记",
-			"type": "book",
-			"uri": "douban://douban.com/book/4872916",
-			"url": "https://book.douban.com/subject/4872916/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1600,6 +1341,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2021-08-15 21:56:39",
+		"id": 2999844157,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/4011670 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4011670/interest/2999844157",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"太宰治"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
+			"color_scheme": {
+				"_base_color": [
+					0.9907407407407407,
+					0.6521739130434783,
+					0.5411764705882353
+				],
+				"_avg_color": [
+					0.9979423868312758,
+					0.45,
+					0.7058823529411765
+				],
+				"primary_color_light": "a5393f",
+				"primary_color_dark": "7f2c30",
+				"secondary_color": "f9f4f5",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/4011670.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "4011670",
+			"intro": "《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 68,
+			"pages": [
+				"168"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s6100756.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s6100756.jpg"
+			},
+			"press": [
+				"吉林出版集团"
+			],
+			"pubdate": [
+				"2009-9"
+			],
+			"rating": {
+				"count": 229710,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/4011670",
+			"subtype": "book",
+			"title": "人间失格",
+			"type": "book",
+			"uri": "douban://douban.com/book/4011670",
+			"url": "https://book.douban.com/subject/4011670/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2021-08-15 21:56:09",
 		"id": 2999843153,
 		"is_editable": false,
@@ -1670,7 +1497,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 353833,
+				"count": 353836,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1684,6 +1511,90 @@
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:55:40",
+		"id": 2999842201,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/30419261 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30419261/interest/2999842201",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"高铭"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "高铭 / 2018 / 北京联合出版公司",
+			"color_scheme": {
+				"_base_color": [
+					0.10091743119266057,
+					0.4718614718614718,
+					0.9058823529411765
+				],
+				"_avg_color": [
+					0.10227272727272729,
+					0.36666666666666664,
+					0.47058823529411764
+				],
+				"primary_color_light": "725d3c",
+				"primary_color_dark": "4c3e28",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/30419261.jpg",
+			"has_ebook": false,
+			"honor_infos": [],
+			"id": "30419261",
+			"intro": "《天才在左 疯子在右：完整版(五百万畅销纪念版)》内容简介：这本书，是一群误入歧途的天才的故事，也是一群入院治疗的疯子的故事。这本书，是作者高铭耗时4年深入医院精神科、公安部等神秘机构，和数百名“非常态人类”直接接触后，以访谈形式记录了生活在社会另一个角落的人群（精神病患者、心理障碍者等边缘人）的所思所想。这本书，是国内第一本具有人文情怀的精神病患谈访录。在与精神病患对话的内容里涉及到生理学、心理学、佛学、宗教、量子物理、符号学以及玛雅文明和预言等众多领域。表现出精神病患看待世界的角度和对生命提出的深刻观点，闻所未闻却又论证严谨。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 6,
+			"pages": [
+				"360"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29965405.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29965405.jpg"
+			},
+			"press": [
+				"北京联合出版公司"
+			],
+			"pubdate": [
+				"2018-5-1"
+			],
+			"rating": {
+				"count": 14874,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30419261",
+			"subtype": "book",
+			"title": "天才在左，疯子在右",
+			"type": "book",
+			"uri": "douban://douban.com/book/30419261",
+			"url": "https://book.douban.com/subject/30419261/",
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -1763,7 +1674,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828686,
+				"count": 828695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1857,7 +1768,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342595,
+				"count": 342598,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1948,7 +1859,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 477604,
+				"count": 477623,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1989,7 +1900,7 @@
 				"[日] 东野圭吾"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3646172/vendors_douban",
 			"card_subtitle": "[日] 东野圭吾 / 2009 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -2015,7 +1926,7 @@
 			"intro": "畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。\n他当真是罪犯？他究竟为何杀人？\n在彻查被害人与凶手的过去之后，警官面对案情、手法均平淡无奇的事实，却感到如坠万丈深渊般无边的寒意……\n作为一部手记体杰作，《恶意》多年来在票选中始终名列前茅，同时被评论界和众多读者视为东野圭吾的巅峰之作，与《白夜行》同享光辉与荣耀：环环相扣的侦破进展百转千回，将手记体叙事的无限可能发挥得淋漓尽致；对复杂人性抽丝剥茧的深刻描画，令人眼花缭乱、哑口无言。\n更引人注目的，是《恶意》与《白夜行》恰似两生花，《白夜行》中的爱情极度炽烈，令人粉身碎骨；《恶意》中的怨恨则无比深沉，令人万劫不复。人性的两极就这样奇异地直击人心。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥38.16",
 			"null_rating_reason": "",
 			"other_versions_count": 22,
 			"pages": [
@@ -2032,7 +1943,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245074,
+				"count": 245080,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2123,7 +2034,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 556973,
+				"count": 556996,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2305,7 +2216,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 785907,
+				"count": 785917,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2412,6 +2323,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2021-08-15 21:47:50",
+		"id": 2999826383,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"(苏)尼古拉·奥斯特洛夫斯基"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.075,
+					0.5555555555555556,
+					0.1411764705882353
+				],
+				"_avg_color": [
+					0.07407407407407385,
+					0.05921052631578945,
+					0.596078431372549
+				],
+				"primary_color_light": "a57349",
+				"primary_color_dark": "7f5838",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "27144044",
+			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 278,
+			"pages": [
+				"440"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
+			},
+			"press": [
+				"天津人民出版社"
+			],
+			"pubdate": [
+				"2017-9"
+			],
+			"rating": {
+				"count": 3942,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
+			"subtype": "book",
+			"title": "钢铁是怎样炼成的",
+			"type": "book",
+			"uri": "douban://douban.com/book/27144044",
+			"url": "https://book.douban.com/subject/27144044/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2021-08-15 21:47:22",
 		"id": 2999825412,
 		"is_editable": false,
@@ -2483,7 +2480,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18895,
+				"count": 18900,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2569,7 +2566,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296250,
+				"count": 296252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2655,7 +2652,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317927,
+				"count": 317929,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2741,7 +2738,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517040,
+				"count": 517047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2827,7 +2824,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245074,
+				"count": 245080,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2918,7 +2915,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 556973,
+				"count": 556996,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3100,7 +3097,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 785907,
+				"count": 785917,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3364,7 +3361,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 18895,
+				"count": 18900,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3450,7 +3447,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296250,
+				"count": 296252,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3536,7 +3533,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 317927,
+				"count": 317929,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3622,7 +3619,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517040,
+				"count": 517047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
