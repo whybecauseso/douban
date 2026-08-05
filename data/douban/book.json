@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 35658,
+				"count": 35661,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 538583,
+				"count": 538594,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 66788,
+				"count": 66790,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 68464,
+				"count": 68467,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35200,
+				"count": 35203,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -687,7 +687,7 @@
 				"1996-12"
 			],
 			"rating": {
-				"count": 466988,
+				"count": 466996,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -781,7 +781,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 218436,
+				"count": 218437,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -792,92 +792,6 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/6518605",
 			"url": "https://book.douban.com/subject/6518605/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2022-04-19 15:37:46",
-		"id": 3321736618,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/25886226 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25886226/interest/3321736618",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[法] 雨果"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/25886226/vendors_douban",
-			"card_subtitle": "[法] 雨果 / 2015 / 人民文学出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.952991452991453,
-					0.5531914893617021,
-					0.5529411764705883
-				],
-				"_avg_color": [
-					0.9570707070707071,
-					0.41509433962264153,
-					0.6235294117647059
-				],
-				"primary_color_light": "a54a63",
-				"primary_color_dark": "7f384c",
-				"secondary_color": "f9f4f6",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/25886226.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "25886226",
-			"intro": "《巴黎圣母院》艺术地再现了四百多年前法王路易十一统治时期的历史真实，宫廷与教会如何狼狈为奸压迫人民群众，人民群众怎样同两股势力英勇斗争。本书以1482年的法国为背景，以吉普赛姑娘爱丝美拉达与年轻英俊的卫队长，道貌岸然的副主教以及畸形、丑陋的敲钟人之间的关系为主线，热情呕歌了吉普赛姑娘与敲钟人高尚的品格，深刻鞭挞了卫队长与副主教的虚伪与卑下。小说体现了雨果的“美丑对照”的艺术表现原则，它的发表，打破了伪古典主义的桎梏，标志着浪漫主义的彻底胜利。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥17.6",
-			"null_rating_reason": "",
-			"other_versions_count": 275,
-			"pages": [
-				"457"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s32293440.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s32293440.jpg"
-			},
-			"press": [
-				"人民文学出版社"
-			],
-			"pubdate": [
-				"2015-1"
-			],
-			"rating": {
-				"count": 10446,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25886226",
-			"subtype": "book",
-			"title": "巴黎圣母院",
-			"type": "book",
-			"uri": "douban://douban.com/book/25886226",
-			"url": "https://book.douban.com/subject/25886226/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -976,93 +890,6 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2022-02-15 21:26:01",
-		"id": 3240307853,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26954419 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26954419/interest/3240307853",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"[日] 夏目漱石"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "[日] 夏目漱石 / 2017 / 中国友谊出版公司",
-			"color_scheme": {
-				"_base_color": [
-					0.9684684684684685,
-					0.1491935483870968,
-					0.9725490196078431
-				],
-				"_avg_color": [
-					0.9705882352941178,
-					0.0693877551020408,
-					0.9607843137254902
-				],
-				"primary_color_light": "f2ced4",
-				"primary_color_dark": "f2ced4",
-				"secondary_color": "f9f4f5",
-				"is_dark": false
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/26954419.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "26954419",
-			"intro": "《我是猫》是夏目漱石的代表作。小说以一只猫的视角，观察并评述身为中学教师的主人苦沙弥和他的朋友们的日常生活，同时穿插了资本家邻居金田的女儿婚事等事件。小说中的猫语言幽默机智，妙语连珠，作者借其口嘲笑了明治社会知识分子空虚的精神世界，揭露了金田等资产阶级及其帮凶的势利、粗鄙、凶残的本性。全书构思灵巧，手法夸张，具有鲜明的艺术特色，淋漓尽致地反映了二十世纪初，日本中小资产阶级的思想和生活，尖锐地揭露和批判了明治“文明开化”的资本主义社会。",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": null,
-			"null_rating_reason": "",
-			"other_versions_count": 96,
-			"pages": [
-				"480"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s29280857.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s29280857.jpg"
-			},
-			"press": [
-				"中国友谊出版公司"
-			],
-			"pubdate": [
-				"2017-5"
-			],
-			"rating": {
-				"count": 906,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.5
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26954419",
-			"subtype": "book",
-			"title": "我是猫",
-			"type": "book",
-			"uri": "douban://douban.com/book/26954419",
-			"url": "https://book.douban.com/subject/26954419/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
 		"create_time": "2022-01-25 11:56:13",
 		"id": 2999832710,
 		"is_editable": false,
@@ -1133,7 +960,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230362,
+				"count": 230363,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1226,7 +1053,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 313748,
+				"count": 313750,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1342,6 +1169,92 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2021-08-15 21:59:35",
+		"id": 2999849978,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1841531 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1841531/interest/2999849978",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"笛福"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "笛福 / 1978 / 人民文学出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.17948717948717943,
+					0.11206896551724135,
+					0.4549019607843137
+				],
+				"_avg_color": [
+					0.16666666666666666,
+					0.11009174311926606,
+					0.42745098039215684
+				],
+				"primary_color_light": "717265",
+				"primary_color_dark": "4b4c43",
+				"secondary_color": "f9f9f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/1841531.jpg",
+			"has_ebook": true,
+			"honor_infos": [],
+			"id": "1841531",
+			"intro": "",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "",
+			"other_versions_count": 140,
+			"pages": [
+				"278"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s3581447.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s3581447.jpg"
+			},
+			"press": [
+				"人民文学出版社"
+			],
+			"pubdate": [
+				"1978-4"
+			],
+			"rating": {
+				"count": 3315,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1841531",
+			"subtype": "book",
+			"title": "鲁滨孙漂流记",
+			"type": "book",
+			"uri": "douban://douban.com/book/1841531",
+			"url": "https://book.douban.com/subject/1841531/",
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2021-08-15 21:59:17",
 		"id": 2999849412,
 		"is_editable": false,
@@ -1405,7 +1318,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6378,
+				"count": 6379,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1928,7 +1841,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14893,
+				"count": 14892,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2019,7 +1932,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 828809,
+				"count": 828813,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2113,7 +2026,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 342658,
+				"count": 342659,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2204,7 +2117,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 477815,
+				"count": 477823,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2288,7 +2201,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245197,
+				"count": 245199,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2379,7 +2292,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 557369,
+				"count": 557384,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2470,7 +2383,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511576,
+				"count": 511577,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2561,7 +2474,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 786201,
+				"count": 786205,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2582,8 +2495,8 @@
 	{
 		"charts": [],
 		"comment": "",
-		"create_time": "2021-08-15 21:47:50",
-		"id": 2999826383,
+		"create_time": "2021-08-15 21:47:22",
+		"id": 2999825412,
 		"is_editable": false,
 		"is_private": false,
 		"platforms": [],
@@ -2593,69 +2506,77 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/27144044 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27144044/interest/2999826383",
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1064841 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1064841/interest/2999825412",
 		"status": "done",
 		"subject": {
 			"article_intros": [],
 			"author": [
-				"(苏)尼古拉·奥斯特洛夫斯基"
+				"[加] 露西·莫德·蒙哥玛利",
+				"[加拿大] 露西·莫德·蒙哥马利"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
-			"card_subtitle": "(苏)尼古拉·奥斯特洛夫斯基 / 2017 / 天津人民出版社",
+			"buy_more_uri": "douban://douban.com/book/1064841/vendors_douban",
+			"card_subtitle": "[加] 露西·莫德·蒙哥玛利 [加拿大] 露西·莫德·蒙哥马利 / 2003 / 浙江文艺出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.075,
-					0.5555555555555556,
-					0.1411764705882353
+					0.21698113207547168,
+					0.4108527131782946,
+					0.5058823529411764
 				],
 				"_avg_color": [
-					0.07407407407407385,
-					0.05921052631578945,
-					0.596078431372549
+					0.14705882352941174,
+					0.3090909090909091,
+					0.6470588235294118
 				],
-				"primary_color_light": "a57349",
-				"primary_color_dark": "7f5838",
-				"secondary_color": "f9f7f4",
+				"primary_color_light": "91a561",
+				"primary_color_dark": "6f7f4b",
+				"secondary_color": "f8f9f4",
 				"is_dark": true
 			},
 			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/27144044.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/1064841.jpg",
 			"has_ebook": true,
-			"honor_infos": [],
-			"id": "27144044",
-			"intro": "“人的一生应该怎样度过？”年仅29岁，双目失明的尼古拉·奥斯特洛夫斯基在索契寒冷的夜里为全世界的青年发出的这声疑问，铸就了指引一代代人的灯塔——《钢铁是怎样炼成的》。\n尚未成年的保尔被暴虐的神甫从学校中赶出，一脚踏进了这纷乱的人间。\n是年，已然统治了这庞大帝国数百年的沙皇贵族们摇摇欲坠。\n是年，名曰布尔什维克的火种在那位导师的带领下星火燎原。\n是年，这个叫做保尔·柯察金的小伙子还没有遇到那面红旗。\n日后堪称这面红旗下最坚硬钢铁基石的英雄战士，引领着无数青年的榜样，他的人生，拉开了帷幕……",
+			"honor_infos": [
+				{
+					"kind": "book",
+					"rank": 67,
+					"title": "豆瓣外国小说 Top100",
+					"uri": "douban://douban.com/subject_collection/ECY45E4YA?type=rank&category=book&rank_type=topn_book"
+				}
+			],
+			"id": "1064841",
+			"intro": "一部最甜蜜的描写儿童生活的小说。安妮是个身世凄凉的小女孩，出生不久即父母双亡，成了孤儿。好心的邻居把她养到六岁之后她又到另一户人家看孩子，后来被送到了孤儿院。十一岁的时候，绿山墙的马修和玛莉拉收养了她。安妮天性活泼乐观，想像力极为丰富。她的天真和幻想使闹了不少笑话，但她的善良和直率也使她赢得了友谊和真挚的爱。她聪明而勤奋，凭着自己的努力考取了大学，但为了照顾玛莉拉，她又放弃了学业。这是一个孤儿长大成人的故事，朴实而绚丽，充满着童心和梦幻。\n绿山墙农舍的卡思伯特兄妹决定领养一个男孩，帮着做田里的农活。令人大吃一惊的是，孤儿院送来了一个爱幻想、喋喋不休的红发孩，一个小精灵。这个小精灵像一股清新的风吹进了闭塞的农舍乡村。故事由此开始……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥17.87",
 			"null_rating_reason": "",
-			"other_versions_count": 278,
+			"other_versions_count": 89,
 			"pages": [
-				"440"
+				"255"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s29548660.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s29548660.jpg"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s1050548.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s1050548.jpg"
 			},
 			"press": [
-				"天津人民出版社"
+				"浙江文艺出版社"
 			],
 			"pubdate": [
-				"2017-9"
+				"2003-01"
 			],
 			"rating": {
-				"count": 3943,
+				"count": 18923,
 				"max": 10,
-				"star_count": 4,
-				"value": 8.4
+				"star_count": 4.5,
+				"value": 9.1
 			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/27144044",
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1064841",
 			"subtype": "book",
-			"title": "钢铁是怎样炼成的",
+			"title": "绿山墙的安妮",
 			"type": "book",
-			"uri": "douban://douban.com/book/27144044",
-			"url": "https://book.douban.com/subject/27144044/",
+			"uri": "douban://douban.com/book/1064841",
+			"url": "https://book.douban.com/subject/1064841/",
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -2817,7 +2738,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318003,
+				"count": 318005,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2903,7 +2824,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517139,
+				"count": 517141,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2917,6 +2838,97 @@
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2021-08-15 21:49:25",
+		"id": 2999829607,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/3211779 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3211779/interest/2999829607",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[日] 东野圭吾"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/3211779/vendors_douban",
+			"card_subtitle": "[日] 东野圭吾 / 2008 / 南海出版公司",
+			"color_scheme": {
+				"_base_color": [
+					0.5238095238095238,
+					0.2413793103448276,
+					0.22745098039215686
+				],
+				"_avg_color": [
+					0.5119047619047619,
+					0.21875,
+					0.25098039215686274
+				],
+				"primary_color_light": "576e72",
+				"primary_color_dark": "3a494c",
+				"secondary_color": "f4f9f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/3211779.jpg",
+			"has_ebook": false,
+			"honor_infos": [
+				{
+					"kind": "book",
+					"rank": 68,
+					"title": "豆瓣图书Top250",
+					"uri": "douban://douban.com/subject_collection/book_top250"
+				}
+			],
+			"id": "3211779",
+			"intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由他料理善后。石神设了一个匪夷所思的局，令警方始终只能在外围敲敲打打，根本无法与案子沾边。石神究竟使用了什么手法？",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥24.7",
+			"null_rating_reason": "",
+			"other_versions_count": 30,
+			"pages": [
+				"251"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s3254244.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s3254244.jpg"
+			},
+			"press": [
+				"南海出版公司"
+			],
+			"pubdate": [
+				"2008-9"
+			],
+			"rating": {
+				"count": 557384,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/3211779",
+			"subtype": "book",
+			"title": "嫌疑人X的献身",
+			"type": "book",
+			"uri": "douban://douban.com/book/3211779",
+			"url": "https://book.douban.com/subject/3211779/",
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2996,7 +3008,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511576,
+				"count": 511577,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3087,7 +3099,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 786201,
+				"count": 786205,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3523,7 +3535,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318003,
+				"count": 318005,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3609,7 +3621,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517139,
+				"count": 517141,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
