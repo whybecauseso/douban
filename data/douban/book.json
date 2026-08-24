@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36028,
+				"count": 36029,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 540711,
+				"count": 540720,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 67252,
+				"count": 67255,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35554,
+				"count": 35556,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 467944,
+				"count": 467947,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 219099,
+				"count": 219100,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 230729,
+				"count": 230730,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1980,7 +1980,7 @@
 			"intro": "失去父母的女孩简，寄居亲戚家，受尽委屈。\n长大成人后，简到一所贵族庄园担任家庭教师，庄园主人罗切斯特却暗恋上她。在偶然得知罗切斯特是有妇之夫，而且还向她隐瞒了惊人真相后，简陷入了迷茫、挣扎、苦痛。\n她该何去何从？她的自我觉醒之路，能否让她最终找到真正的爱情和幸福？本书问世百年以来，简的爱情故事和心智成熟历程，感动了全球亿万读者，更启迪了千千万万的女性。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥24.66",
+			"min_sale_price": "¥24.83",
 			"null_rating_reason": "",
 			"other_versions_count": 378,
 			"pages": [
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 14967,
+				"count": 14968,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 829497,
+				"count": 829503,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343024,
+				"count": 343028,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 478755,
+				"count": 478759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245619,
+				"count": 245620,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 558764,
+				"count": 558767,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3041,7 +3041,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 250,
+					"rank": 249,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 787225,
+				"count": 787229,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19002,
+				"count": 19003,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296643,
+				"count": 296644,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318363,
+				"count": 318364,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 517622,
+				"count": 517623,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
