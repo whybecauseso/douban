@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 542416,
+				"count": 542431,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 67739,
+				"count": 67747,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35794,
+				"count": 35796,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 468887,
+				"count": 468899,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 219743,
+				"count": 219754,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -945,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10497,
+				"count": 10498,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231145,
+				"count": 231153,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 314881,
+				"count": 314885,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60876,
+				"count": 60877,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1896,7 +1896,7 @@
 			"intro": "\n      ",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": null,
 			"null_rating_reason": "",
 			"other_versions_count": 481,
 			"pages": [],
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354065,
+				"count": 354067,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15044,
+				"count": 15046,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830141,
+				"count": 830152,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343423,
+				"count": 343430,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 479788,
+				"count": 479802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245901,
+				"count": 245903,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 559760,
+				"count": 559773,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3017,7 +3017,7 @@
 				"[日] 东野圭吾"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/25862578/vendors_douban",
 			"card_subtitle": "[日] 东野圭吾 / 2014 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -3050,7 +3050,7 @@
 			"intro": "现代人内心流失的东西，这家杂货店能帮你找回——\n僻静的街道旁有一家杂货店，只要写下烦恼投进卷帘门的投信口，第二天就会在店后的牛奶箱里得到回答。\n因男友身患绝症，年轻女孩静子在爱情与梦想间徘徊；克郎为了音乐梦想离家漂泊，却在现实中寸步难行；少年浩介面临家庭巨变，挣扎在亲情与未来的迷茫中……\n他们将困惑写成信投进杂货店，随即奇妙的事情竟不断发生。\n生命中的一次偶然交会，将如何演绎出截然不同的人生？\n如今回顾写作过程，我发现自己始终在思考一个问题：站在人生的岔路口，人究竟应该怎么做？我希望读者能在掩卷时喃喃自语：我从未读过这样的小说。——东野圭吾",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥45.0",
 			"null_rating_reason": "",
 			"other_versions_count": 13,
 			"pages": [
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 787967,
+				"count": 787973,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3237,7 +3237,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3957,
+				"count": 3958,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 296935,
+				"count": 296937,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318727,
+				"count": 318731,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518069,
+				"count": 518074,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
