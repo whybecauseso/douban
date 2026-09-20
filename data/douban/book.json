@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36327,
+				"count": 36331,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 542734,
+				"count": 542750,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 67845,
+				"count": 67852,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 69556,
+				"count": 69562,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35844,
+				"count": 35845,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -502,7 +502,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46788,
+				"count": 46789,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97515,
+				"count": 97516,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469089,
+				"count": 469100,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 219862,
+				"count": 219868,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -945,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10504,
+				"count": 10506,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231235,
+				"count": 231237,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 314998,
+				"count": 315007,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60891,
+				"count": 60892,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6436,
+				"count": 6437,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1898,7 +1898,7 @@
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 482,
+			"other_versions_count": 490,
 			"pages": [],
 			"pic": {
 				"large": "https://img2.doubanio.com/view/subject/l/public/s6990171.jpg",
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 229988,
+				"count": 229993,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15060,
+				"count": 15061,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830273,
+				"count": 830282,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343499,
+				"count": 343501,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480011,
+				"count": 480027,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 559961,
+				"count": 559968,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511652,
+				"count": 511654,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 788111,
+				"count": 788117,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19100,
+				"count": 19101,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297014,
+				"count": 297017,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318804,
+				"count": 318808,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518178,
+				"count": 518184,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
