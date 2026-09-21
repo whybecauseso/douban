@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 542848,
+				"count": 542854,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 67883,
+				"count": 67887,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 69587,
+				"count": 69588,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469167,
+				"count": 469170,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 219904,
+				"count": 219903,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231263,
+				"count": 231265,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6440,
+				"count": 6442,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1890,7 +1890,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/1576580.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [],
 			"id": "1576580",
 			"intro": "\n      ",
@@ -1922,7 +1922,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/1576580",
 			"url": "https://book.douban.com/subject/1576580/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -2523,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830345,
+				"count": 830347,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2617,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343533,
+				"count": 343534,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2708,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480100,
+				"count": 480104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2792,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245952,
+				"count": 245953,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2883,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 560048,
+				"count": 560055,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3329,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19112,
+				"count": 19113,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3415,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297037,
+				"count": 297038,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3501,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318824,
+				"count": 318826,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3587,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518212,
+				"count": 518213,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
