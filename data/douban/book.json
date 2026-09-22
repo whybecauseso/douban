@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36348,
+				"count": 36350,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -146,8 +146,8 @@
 				"538"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s24514468.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s24514468.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s24514468.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s24514468.jpg"
 			},
 			"press": [
 				"南海出版公司"
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 542876,
+				"count": 542910,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 67897,
+				"count": 67910,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 69596,
+				"count": 69601,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35859,
+				"count": 35863,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -502,7 +502,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46795,
+				"count": 46794,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97526,
+				"count": 97527,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -666,7 +666,7 @@
 			"pages": [],
 			"pic": {
 				"large": "https://img2.doubanio.com/f/frodo/ddc30012b6268cb7371e5e339418018e5fef5e06/pics/subject/book_large.jpg",
-				"normal": "https://img1.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png"
+				"normal": "https://img3.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png"
 			},
 			"press": [
 				"北京少年儿童出版社"
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469184,
+				"count": 469203,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 219915,
+				"count": 219929,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -945,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10506,
+				"count": 10507,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1031,7 +1031,7 @@
 				"2018-4-1"
 			],
 			"rating": {
-				"count": 2537,
+				"count": 2538,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1201,8 +1201,8 @@
 				"1235"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s1078958.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s1078958.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s1078958.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s1078958.jpg"
 			},
 			"press": [
 				"译林出版社"
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231268,
+				"count": 231275,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1380,8 +1380,8 @@
 				"304"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s4371408.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s4371408.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s4371408.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s4371408.jpg"
 			},
 			"press": [
 				"北京十月文艺出版社"
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 315063,
+				"count": 315077,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60902,
+				"count": 60903,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1741,7 +1741,7 @@
 				"1978-4"
 			],
 			"rating": {
-				"count": 3323,
+				"count": 3324,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6442,
+				"count": 6443,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354107,
+				"count": 354106,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15071,
+				"count": 15073,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830354,
+				"count": 830376,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343540,
+				"count": 343545,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480113,
+				"count": 480126,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245957,
+				"count": 245959,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 560065,
+				"count": 560080,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511657,
+				"count": 511659,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 788171,
+				"count": 788186,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3237,7 +3237,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 3962,
+				"count": 3963,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3321,8 +3321,8 @@
 				"255"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s1050548.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s1050548.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s1050548.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s1050548.jpg"
 			},
 			"press": [
 				"浙江文艺出版社"
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19114,
+				"count": 19116,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297042,
+				"count": 297047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3480,7 +3480,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/3066477.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [],
 			"id": "3066477",
 			"intro": "三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的\n“黑暗森林”究竟意味着什么？",
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318830,
+				"count": 318838,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3514,7 +3514,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/3066477",
 			"url": "https://book.douban.com/subject/3066477/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -3577,8 +3579,8 @@
 				"302"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s2768378.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s2768378.jpg"
+				"large": "https://img3.doubanio.com/view/subject/l/public/s2768378.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s2768378.jpg"
 			},
 			"press": [
 				"重庆出版社"
@@ -3587,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518218,
+				"count": 518226,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
