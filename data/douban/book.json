@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36389,
+				"count": 36394,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 543214,
+				"count": 543250,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68006,
+				"count": 68021,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 69666,
+				"count": 69676,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35907,
+				"count": 35910,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -502,7 +502,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46802,
+				"count": 46804,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97569,
+				"count": 97575,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469360,
+				"count": 469389,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 220069,
+				"count": 220088,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -945,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10512,
+				"count": 10513,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1031,10 +1031,10 @@
 				"2018-4-1"
 			],
 			"rating": {
-				"count": 2538,
+				"count": 2539,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 9.4
+				"star_count": 5,
+				"value": 9.5
 			},
 			"sharing_url": "",
 			"subtype": "book",
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231337,
+				"count": 231349,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 315181,
+				"count": 315200,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1433,7 +1433,7 @@
 				"[美] 斯科特·菲茨杰拉德"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/10738023/vendors_douban",
 			"card_subtitle": "[美] 斯科特·菲茨杰拉德 / 2012 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -1466,7 +1466,7 @@
 			"intro": "★ 20世纪全球百部英语小说第2名\n★ 村上春树最爱的书\n★ 村上春树万字长文导读\n★ 全新译本完美呈现原著魅力\n★ 如果没有与《了不起的盖茨比》相遇，我写出来的小说会与现在完全不同，或者也许什么都不写。——村上春树\n★《了不起的盖茨比》建立在“幻象的破灭”上。正因这样的幻象，世界才如此鲜艳。你无需理会真假，但求沾染那份魔术般的光彩就是了。——菲茨杰拉德\n中西部小子盖茨比到东部闯荡一夕致富，他在自己的豪宅夜夜宴客，俨然慷慨荒唐的富豪大亨；他梦幻地看着纽约长岛上一座闪着绿光的灯塔，寻觅着梦寐以求的女人黛西。邻居尼克，眼看着盖茨比的宾客们接受他的招待却冷漠无情，眼看着盖茨比奋力追求那腐败的虚华。盖兹比最后的结局，让尼克对东部浮华的名流生活梦碎，宛如看着繁华楼起再看着它楼塌。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": "¥13.73",
 			"null_rating_reason": "",
 			"other_versions_count": 317,
 			"pages": [
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60916,
+				"count": 60919,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6448,
+				"count": 6449,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230024,
+				"count": 230029,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354127,
+				"count": 354129,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15087,
+				"count": 15088,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830483,
+				"count": 830508,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343611,
+				"count": 343624,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480317,
+				"count": 480355,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 245998,
+				"count": 246002,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 560235,
+				"count": 560259,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511662,
+				"count": 511664,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 788305,
+				"count": 788332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19133,
+				"count": 19135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297109,
+				"count": 297119,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318895,
+				"count": 318905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518323,
+				"count": 518339,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
