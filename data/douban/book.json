@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36394,
+				"count": 36395,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 543254,
+				"count": 543270,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -221,7 +221,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 173,
+					"rank": 175,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68023,
+				"count": 68028,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 69676,
+				"count": 69681,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 35910,
+				"count": 35911,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -502,7 +502,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46804,
+				"count": 46805,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -567,7 +567,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 181,
+					"rank": 179,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97575,
+				"count": 97576,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469391,
+				"count": 469403,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 220092,
+				"count": 220102,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -945,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10513,
+				"count": 10514,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231349,
+				"count": 231355,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 315203,
+				"count": 315210,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 60919,
+				"count": 60920,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1741,7 +1741,7 @@
 				"1978-4"
 			],
 			"rating": {
-				"count": 3325,
+				"count": 3324,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354129,
+				"count": 354131,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15088,
+				"count": 15089,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830508,
+				"count": 830518,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343624,
+				"count": 343629,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480357,
+				"count": 480369,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246002,
+				"count": 246006,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 560262,
+				"count": 560269,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 788333,
+				"count": 788338,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19135,
+				"count": 19138,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297119,
+				"count": 297120,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 318906,
+				"count": 318907,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518341,
+				"count": 518343,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
