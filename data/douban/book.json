@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 543628,
+				"count": 543634,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 469616,
+				"count": 469624,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 220264,
+				"count": 220266,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231453,
+				"count": 231456,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1340,7 +1340,7 @@
 				"[英] 乔治·奥威尔"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/4820710/vendors_douban",
+			"buy_more_uri": "",
 			"card_subtitle": "[英] 乔治·奥威尔 / 2010 / 北京十月文艺出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -1373,7 +1373,7 @@
 			"intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的100本英语小说”\n★兰登书屋“100本20世纪最佳英语小说”\n★入选英美中学生必读书书目\n1936年以来，我所写的每 一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。 ——乔治•奥威尔（《我为何写作》）\n《1984》是一部杰出的政治寓言小说，也是一部幻想小说。作品刻画了人类在极权主义社会的生存状态，有若一个永不褪色的警示标签，警醒世人提防这种预想中的黑暗成为现实。历经几十年，其生命力益显强大，被誉为20世纪影响最为深远的文学经典之一。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥21.8",
+			"min_sale_price": "",
 			"null_rating_reason": "",
 			"other_versions_count": 220,
 			"pages": [
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 315363,
+				"count": 315365,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354163,
+				"count": 354165,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 830654,
+				"count": 830657,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 343713,
+				"count": 343714,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 480594,
+				"count": 480597,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246054,
+				"count": 246053,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 560457,
+				"count": 560458,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511666,
+				"count": 511667,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297194,
+				"count": 297197,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319005,
+				"count": 319009,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 518472,
+				"count": 518476,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
