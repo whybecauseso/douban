@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36656,
+				"count": 36657,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 545388,
+				"count": 545405,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -230,7 +230,7 @@
 			"intro": "五十年间西门闹经历六次转世，\n一世为驴，二世为牛，三世为猪，四世为狗，五世为猴，最终降生为人。\n在这六世里，他目睹蓝脸一家三代经历人生的生死疲劳，\n他们爱就爱到底，恨就恨到底，犟就犟到底，干就干到底，\n有极致的痛苦，也有彻底的放纵。\n而他们的故事，要从1950年1月1日讲起……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥46.8",
+			"min_sale_price": "¥41.94",
 			"null_rating_reason": "",
 			"other_versions_count": 28,
 			"pages": [
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68717,
+				"count": 68726,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 70075,
+				"count": 70081,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36159,
+				"count": 36162,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -502,7 +502,7 @@
 				"2013-10-1"
 			],
 			"rating": {
-				"count": 46888,
+				"count": 46890,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -543,7 +543,7 @@
 				"刘慈欣"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/1192090/vendors_douban",
+			"buy_more_uri": "",
 			"card_subtitle": "刘慈欣 / 2005 / 四川科学技术出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -576,7 +576,7 @@
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥15.1",
+			"min_sale_price": "",
 			"null_rating_reason": "",
 			"other_versions_count": 23,
 			"pages": [
@@ -593,7 +593,7 @@
 				"2005-6"
 			],
 			"rating": {
-				"count": 97862,
+				"count": 97864,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 470771,
+				"count": 470786,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221034,
+				"count": 221043,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231936,
+				"count": 231944,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 316048,
+				"count": 316056,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61047,
+				"count": 61048,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1997,7 +1997,7 @@
 				"2018-7"
 			],
 			"rating": {
-				"count": 1948,
+				"count": 1949,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230196,
+				"count": 230197,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15209,
+				"count": 15211,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 831474,
+				"count": 831483,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344196,
+				"count": 344203,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 481716,
+				"count": 481734,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246292,
+				"count": 246294,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 561353,
+				"count": 561360,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511705,
+				"count": 511706,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789282,
+				"count": 789290,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297545,
+				"count": 297549,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319444,
+				"count": 319448,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519035,
+				"count": 519041,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
