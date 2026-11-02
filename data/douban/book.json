@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36675,
+				"count": 36679,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 545536,
+				"count": 545567,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68771,
+				"count": 68783,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 70107,
+				"count": 70117,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36179,
+				"count": 36185,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -544,21 +544,21 @@
 			],
 			"book_subtitle": "",
 			"buy_more_uri": "",
-			"card_subtitle": "刘慈欣 / 2005 / 四川科学技术出版社",
+			"card_subtitle": "刘慈欣 / 2004 / 四川科学技术出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.9978632478632479,
-					0.6290322580645162,
-					0.48627450980392156
+					0.033333333333333236,
+					0.09999999999999992,
+					0.19607843137254902
 				],
 				"_avg_color": [
-					0.9971751412429378,
-					0.32777777777777783,
-					0.7058823529411765
+					0.074074074074074,
+					0.08823529411764716,
+					0.4
 				],
-				"primary_color_light": "a53d3e",
-				"primary_color_dark": "7f2f30",
-				"secondary_color": "f9f4f4",
+				"primary_color_light": "726967",
+				"primary_color_dark": "4c4644",
+				"secondary_color": "f9f5f4",
 				"is_dark": true
 			},
 			"controversy_reason": "",
@@ -576,24 +576,24 @@
 			"intro": "在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。\n这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！\n当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 23,
+			"other_versions_count": 20,
 			"pages": [
-				"281"
+				"227"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s26040205.jpg",
-				"normal": "https://img9.doubanio.com/view/subject/m/public/s26040205.jpg"
+				"large": "https://img9.doubanio.com/view/subject/l/public/s1448015.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s1448015.jpg"
 			},
 			"press": [
 				"四川科学技术出版社"
 			],
 			"pubdate": [
-				"2005-6"
+				"2004-7"
 			],
 			"rating": {
-				"count": 97881,
+				"count": 97940,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 470881,
+				"count": 470916,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221095,
+				"count": 221112,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1031,7 +1031,7 @@
 				"2018-4-1"
 			],
 			"rating": {
-				"count": 2543,
+				"count": 2544,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 231984,
+				"count": 231994,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 316119,
+				"count": 316127,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61056,
+				"count": 61057,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1569,7 +1569,7 @@
 				"2004-6-1"
 			],
 			"rating": {
-				"count": 138,
+				"count": 139,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6495,
+				"count": 6496,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2169,7 +2169,7 @@
 				"2003-10-1"
 			],
 			"rating": {
-				"count": 4893,
+				"count": 4894,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -2240,7 +2240,7 @@
 			"is_show": false,
 			"min_sale_price": null,
 			"null_rating_reason": "",
-			"other_versions_count": 69,
+			"other_versions_count": 70,
 			"pages": [
 				"168"
 			],
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230208,
+				"count": 230210,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354307,
+				"count": 354309,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15220,
+				"count": 15222,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 831544,
+				"count": 831558,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344243,
+				"count": 344250,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 481828,
+				"count": 481852,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2751,7 +2751,7 @@
 				"[日] 东野圭吾"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3646172/vendors_douban",
 			"card_subtitle": "[日] 东野圭吾 / 2009 / 南海出版公司",
 			"color_scheme": {
 				"_base_color": [
@@ -2777,7 +2777,7 @@
 			"intro": "畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。\n他当真是罪犯？他究竟为何杀人？\n在彻查被害人与凶手的过去之后，警官面对案情、手法均平淡无奇的事实，却感到如坠万丈深渊般无边的寒意……\n作为一部手记体杰作，《恶意》多年来在票选中始终名列前茅，同时被评论界和众多读者视为东野圭吾的巅峰之作，与《白夜行》同享光辉与荣耀：环环相扣的侦破进展百转千回，将手记体叙事的无限可能发挥得淋漓尽致；对复杂人性抽丝剥茧的深刻描画，令人眼花缭乱、哑口无言。\n更引人注目的，是《恶意》与《白夜行》恰似两生花，《白夜行》中的爱情极度炽烈，令人粉身碎骨；《恶意》中的怨恨则无比深沉，令人万劫不复。人性的两极就这样奇异地直击人心。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥37.4",
 			"null_rating_reason": "",
 			"other_versions_count": 22,
 			"pages": [
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246309,
+				"count": 246315,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2868,7 +2868,7 @@
 			"intro": "百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。\n靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由他料理善后。石神设了一个匪夷所思的局，令警方始终只能在外围敲敲打打，根本无法与案子沾边。石神究竟使用了什么手法？",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥22.41",
+			"min_sale_price": "¥21.99",
 			"null_rating_reason": "",
 			"other_versions_count": 31,
 			"pages": [
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 561417,
+				"count": 561442,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511702,
+				"count": 511701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789337,
+				"count": 789359,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3151,7 +3151,7 @@
 				"1998-5"
 			],
 			"rating": {
-				"count": 2244,
+				"count": 2245,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19255,
+				"count": 19257,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297568,
+				"count": 297578,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319470,
+				"count": 319480,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519082,
+				"count": 519094,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
