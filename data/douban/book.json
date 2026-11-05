@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36700,
+				"count": 36702,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 545738,
+				"count": 545762,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68849,
+				"count": 68857,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 70155,
+				"count": 70160,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36201,
+				"count": 36202,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -593,7 +593,7 @@
 				"2004-7"
 			],
 			"rating": {
-				"count": 97956,
+				"count": 97957,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 471041,
+				"count": 471055,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -777,7 +777,8 @@
 			"uri": "douban://douban.com/book/1007305",
 			"url": "https://book.douban.com/subject/1007305/",
 			"vendor_icons": [
-				"https://img3.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img3.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img3.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
@@ -858,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221202,
+				"count": 221209,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -944,7 +945,7 @@
 				"2015-1"
 			],
 			"rating": {
-				"count": 10552,
+				"count": 10553,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1210,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 232048,
+				"count": 232062,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1389,7 +1390,7 @@
 				"2010-4-1"
 			],
 			"rating": {
-				"count": 316220,
+				"count": 316222,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1482,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61070,
+				"count": 61071,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1826,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6500,
+				"count": 6501,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2254,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230226,
+				"count": 230227,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2433,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15231,
+				"count": 15230,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2507,7 +2508,7 @@
 			"intro": "12岁的阿富汗富家少爷阿米尔与仆人哈桑情同手足。然而，在一场风筝比赛后，发生了一件悲惨不堪的事，阿米尔为自己的懦弱感到自责和痛苦，逼走了哈桑，不久，自己也跟随父亲逃往美国。\n成年后的阿米尔始终无法原谅自己当年对哈桑的背叛。为了赎罪，阿米尔再度踏上暌违二十多年的故乡，希望能为不幸的好友尽最后一点心力，却发现一个惊天谎言，儿时的噩梦再度重演，阿米尔该如何抉择？\n故事如此残忍而又美丽，作者以温暖细腻的笔法勾勒人性的本质与救赎，读来令人荡气回肠。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥25.4",
+			"min_sale_price": "¥9.3",
 			"null_rating_reason": "",
 			"other_versions_count": 56,
 			"pages": [
@@ -2524,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 831645,
+				"count": 831655,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2618,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344310,
+				"count": 344318,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2709,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 481976,
+				"count": 481987,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2793,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246337,
+				"count": 246339,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2884,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 561536,
+				"count": 561544,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2975,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511702,
+				"count": 511703,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3066,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789433,
+				"count": 789446,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3416,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297617,
+				"count": 297619,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3502,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319521,
+				"count": 319524,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3588,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519149,
+				"count": 519157,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
