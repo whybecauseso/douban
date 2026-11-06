@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36704,
+				"count": 36707,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 545765,
+				"count": 545804,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 68862,
+				"count": 68869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 70162,
+				"count": 70171,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36202,
+				"count": 36204,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -593,7 +593,7 @@
 				"2004-7"
 			],
 			"rating": {
-				"count": 97957,
+				"count": 97960,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 471055,
+				"count": 471078,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221210,
+				"count": 221221,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 232062,
+				"count": 232067,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1344,19 +1344,19 @@
 			"card_subtitle": "[英] 乔治·奥威尔 / 2010 / 北京十月文艺出版社",
 			"color_scheme": {
 				"_base_color": [
-					0.5747126436781609,
-					0.2660550458715596,
-					0.42745098039215684
+					0.05555555555555556,
+					0.10344827586206896,
+					0.11372549019607843
 				],
 				"_avg_color": [
-					0.5,
-					0.01904761904761898,
-					0.8235294117647058
+					0.16666666666666666,
+					0.011952191235059719,
+					0.984313725490196
 				],
-				"primary_color_light": "7991a5",
-				"primary_color_dark": "5d707f",
-				"secondary_color": "f4f7f9",
-				"is_dark": true
+				"primary_color_light": "f2e1d9",
+				"primary_color_dark": "f2e1d9",
+				"secondary_color": "f9f6f4",
+				"is_dark": false
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/4820710.jpg",
@@ -1373,24 +1373,24 @@
 			"intro": "★村上春树以《1Q84》向本书致敬\n★著名学者刘绍铭经典译本内地首次出版\n★62种文字风靡110个国家，全球销量超过5000万册\n★《时代周刊》“最好的100本英语小说”\n★兰登书屋“100本20世纪最佳英语小说”\n★入选英美中学生必读书书目\n1936年以来，我所写的每 一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。 ——乔治•奥威尔（《我为何写作》）\n《1984》是一部杰出的政治寓言小说，也是一部幻想小说。作品刻画了人类在极权主义社会的生存状态，有若一个永不褪色的警示标签，警醒世人提防这种预想中的黑暗成为现实。历经几十年，其生命力益显强大，被誉为20世纪影响最为深远的文学经典之一。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": null,
 			"null_rating_reason": "",
 			"other_versions_count": 220,
 			"pages": [
 				"304"
 			],
 			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s4371408.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/m/public/s4371408.jpg"
+				"large": "https://img9.doubanio.com/view/subject/l/public/s6166716.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s6166716.jpg"
 			},
 			"press": [
 				"北京十月文艺出版社"
 			],
 			"pubdate": [
-				"2010-4-1"
+				"2010-4"
 			],
 			"rating": {
-				"count": 316222,
+				"count": 316234,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61071,
+				"count": 61072,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2126,7 +2126,7 @@
 				"马克・吐温"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/1142578/vendors_douban",
 			"card_subtitle": "马克・吐温 / 2003 / 二十一世纪出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -2152,7 +2152,7 @@
 			"intro": "故事发生在南北战争前美国南方一个叫圣彼得堡的小镇上。汤姆·索亚生性顽皮，厌恶教会学校里枯燥无味的生活。他和野孩子哈克一道搞了很多恶作剧，甚至离家出走，结伴逃到荒岛上，幻想着能过上传说中的海盗和绿林好汉的冒险生活。一个夜晚，他约哈克到坟场玩耍，目睹乔埃杀人案，经过激烈的思想头斗争，最终挺身而出作证，揭露了乔埃的罪恶，成为孩子们钦佩的小英雄。乔埃企图杀害汤姆，结果反而困死在山洞里。汤姆和哈克发现了一大堆海盗埋藏的金币，两人因此都成了富翁。　　本小说发表于1876年，对美国社会和宗教的嘲讽已经超出儿童读物的范畴。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": null,
+			"min_sale_price": "¥11.34",
 			"null_rating_reason": "",
 			"other_versions_count": 254,
 			"pages": [
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230228,
+				"count": 230232,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15230,
+				"count": 15231,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 831658,
+				"count": 831672,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344318,
+				"count": 344325,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 481995,
+				"count": 482013,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246340,
+				"count": 246345,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 561546,
+				"count": 561560,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2959,7 +2959,7 @@
 			"intro": "“只希望能手牵手在太阳下散步”，这个象征故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的故事片段像纪录片一样一一还原：没有痴痴相思，没有海枯石烂，只剩下一个冰冷绝望的诡计，最后一丝温情也被完全抛弃，万千读者在一曲救赎罪恶的凄苦爱情中悲切动容……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥18.76",
+			"min_sale_price": "¥15.52",
 			"null_rating_reason": "",
 			"other_versions_count": 21,
 			"pages": [
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511703,
+				"count": 511704,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789448,
+				"count": 789462,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297619,
+				"count": 297628,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319524,
+				"count": 319531,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519158,
+				"count": 519168,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
