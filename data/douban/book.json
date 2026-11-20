@@ -65,7 +65,7 @@
 				"2017-11"
 			],
 			"rating": {
-				"count": 36806,
+				"count": 36813,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 546797,
+				"count": 546842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -230,7 +230,7 @@
 			"intro": "五十年间西门闹经历六次转世，\n一世为驴，二世为牛，三世为猪，四世为狗，五世为猴，最终降生为人。\n在这六世里，他目睹蓝脸一家三代经历人生的生死疲劳，\n他们爱就爱到底，恨就恨到底，犟就犟到底，干就干到底，\n有极致的痛苦，也有彻底的放纵。\n而他们的故事，要从1950年1月1日讲起……",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥47.53",
+			"min_sale_price": "¥46.8",
 			"null_rating_reason": "",
 			"other_versions_count": 28,
 			"pages": [
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 69176,
+				"count": 69196,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -334,7 +334,7 @@
 				"2016-1"
 			],
 			"rating": {
-				"count": 70325,
+				"count": 70332,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36301,
+				"count": 36305,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -593,7 +593,7 @@
 				"2004-7"
 			],
 			"rating": {
-				"count": 98055,
+				"count": 98061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 471736,
+				"count": 471756,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221672,
+				"count": 221686,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 232361,
+				"count": 232372,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4"
 			],
 			"rating": {
-				"count": 316613,
+				"count": 316625,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1483,10 +1483,10 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61156,
+				"count": 61165,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.7
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/10738023",
 			"subtype": "book",
@@ -1827,7 +1827,7 @@
 				"2010-6-1"
 			],
 			"rating": {
-				"count": 6508,
+				"count": 6510,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230314,
+				"count": 230317,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354379,
+				"count": 354382,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15297,
+				"count": 15298,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 832120,
+				"count": 832137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344624,
+				"count": 344636,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 482628,
+				"count": 482651,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2794,7 +2794,7 @@
 				"2009-6"
 			],
 			"rating": {
-				"count": 246470,
+				"count": 246473,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 562083,
+				"count": 562104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511700,
+				"count": 511701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789846,
+				"count": 789860,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3151,7 +3151,7 @@
 				"1998-5"
 			],
 			"rating": {
-				"count": 2250,
+				"count": 2251,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3331,7 +3331,7 @@
 				"2003-01"
 			],
 			"rating": {
-				"count": 19338,
+				"count": 19340,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297809,
+				"count": 297819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319766,
+				"count": 319779,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519488,
+				"count": 519506,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
