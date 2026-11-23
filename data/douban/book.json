@@ -130,7 +130,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 12,
+					"rank": 13,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -156,7 +156,7 @@
 				"2013-1-1"
 			],
 			"rating": {
-				"count": 546981,
+				"count": 546990,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -221,7 +221,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 184,
+					"rank": 183,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -247,7 +247,7 @@
 				"2021-11"
 			],
 			"rating": {
-				"count": 69256,
+				"count": 69261,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -418,7 +418,7 @@
 				"2017-9"
 			],
 			"rating": {
-				"count": 36328,
+				"count": 36329,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -567,7 +567,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 180,
+					"rank": 184,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -765,7 +765,7 @@
 				"1982-3"
 			],
 			"rating": {
-				"count": 471851,
+				"count": 471862,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -859,7 +859,7 @@
 				"2012-1"
 			],
 			"rating": {
-				"count": 221747,
+				"count": 221750,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -1211,7 +1211,7 @@
 				"2000-9"
 			],
 			"rating": {
-				"count": 232406,
+				"count": 232410,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1390,7 +1390,7 @@
 				"2010-4"
 			],
 			"rating": {
-				"count": 316674,
+				"count": 316677,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1457,9 +1457,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 250,
-					"title": "豆瓣图书Top250",
-					"uri": "douban://douban.com/subject_collection/book_top250"
+					"rank": 4,
+					"title": "热门美国文学图书TOP10",
+					"uri": "douban://douban.com/subject_collection/ECXIPOS4Y?type=rank&category=book&rank_type=topn_book"
 				}
 			],
 			"id": "10738023",
@@ -1483,7 +1483,7 @@
 				"2012-5"
 			],
 			"rating": {
-				"count": 61180,
+				"count": 61181,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2255,7 +2255,7 @@
 				"2009-9"
 			],
 			"rating": {
-				"count": 230332,
+				"count": 230333,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -2348,7 +2348,7 @@
 				"2001-2"
 			],
 			"rating": {
-				"count": 354390,
+				"count": 354391,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2434,7 +2434,7 @@
 				"2018-5-1"
 			],
 			"rating": {
-				"count": 15305,
+				"count": 15307,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -2525,7 +2525,7 @@
 				"2006-5"
 			],
 			"rating": {
-				"count": 832200,
+				"count": 832202,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2593,7 +2593,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 36,
+					"rank": 38,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2619,7 +2619,7 @@
 				"2005-1"
 			],
 			"rating": {
-				"count": 344672,
+				"count": 344674,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2710,7 +2710,7 @@
 				"2011-6"
 			],
 			"rating": {
-				"count": 482732,
+				"count": 482737,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2859,7 +2859,7 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 67,
+					"rank": 70,
 					"title": "豆瓣图书Top250",
 					"uri": "douban://douban.com/subject_collection/book_top250"
 				}
@@ -2885,7 +2885,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 562174,
+				"count": 562176,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -2976,7 +2976,7 @@
 				"2008-9"
 			],
 			"rating": {
-				"count": 511704,
+				"count": 511703,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3041,9 +3041,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"rank": 246,
-					"title": "豆瓣图书Top250",
-					"uri": "douban://douban.com/subject_collection/book_top250"
+					"rank": 1,
+					"title": "2024大陆首版十周年图书",
+					"uri": "douban://douban.com/subject_collection/ECLU7MQ4Y?type=rank&category=book&rank_type=year"
 				}
 			],
 			"id": "25862578",
@@ -3067,7 +3067,7 @@
 				"2014-5"
 			],
 			"rating": {
-				"count": 789915,
+				"count": 789917,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3417,7 +3417,7 @@
 				"2010-11"
 			],
 			"rating": {
-				"count": 297849,
+				"count": 297851,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3503,7 +3503,7 @@
 				"2008-5"
 			],
 			"rating": {
-				"count": 319821,
+				"count": 319822,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3589,7 +3589,7 @@
 				"2008-1"
 			],
 			"rating": {
-				"count": 519546,
+				"count": 519548,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
